@@ -1,0 +1,21 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "قطعة مطاط وقعت على النار" (the story of Charles Goodyear and the vulcanization of rubber).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name vulcanized rubber and do NOT show any tire in the first 15 seconds. Dive straight into the mystery (a man holding a piece of rubber over a hot stove, on purpose this time, after years of failure), hold the tension, then reveal vulcanized rubber at the end of scene 1 (around 0:20 to 0:30). The title text appears only after the reveal.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE WORKSHOP + HEAT VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The sticky mess: a drawn lump of natural rubber melting into a sticky puddle under a summer sun icon, then cracking under a snowflake icon.
+- The obsessed man: a simple drawn figure of Goodyear surrounded by jars, debts papers and rubber pieces, a small calendar flipping years.
+- The fateful drop: a rubber-and-sulfur mix slipping from a hand toward a hot stove surface, one glowing drop trail in slow motion.
+- The transformation: the heated rubber piece shown as a symbolic material card: the same shape, now flexing without melting in heat and without cracking in cold.
+- The molecule ladder: a simplified drawn chain of rubber molecules with sulfur rungs linking them like a ladder, labeled as an illustration.
+- The rubber world: drawn icons of tires, boots, seals and hoses lighting up one by one on a world map outline.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Rubber's two flaws, 3 Goodyear's obsession, 4 The stove moment, 5 Vulcanization, 6 Patent and poverty, 7 Rubber changes the world, 8 Takeaway, 9 End card.
+
+FACT RULES (do not break): Goodyear did NOT invent rubber and was not the first to try fixing it; he spent years obsessively experimenting while in debt. The famous stove moment is the traditional account of the discovery, so present it as the classic story, not slow-motion certainty. The key fact is the process: heating rubber with sulfur (vulcanization), patented by Goodyear (US patent 3,633, granted 1844). The Goodyear tire company was named in his honor decades later and he did not found it or profit from it; he died in debt. No invented dialogue and no exaggerated 'overnight success' framing.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
