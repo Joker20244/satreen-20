@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>سطرين | Satreen — مكتبة الـ٢٥ قصة</title>
+<style>@font-face{font-family:'Cairo';font-style:normal;font-weight:200 1000;font-display:swap;src:url(assets/fonts/Cairo-Variable.woff2) format('woff2-variations'), url(assets/fonts/Cairo-Variable.ttf) format('truetype-variations');}
+@font-face{font-family:'Tajawal';font-style:normal;font-weight:400;font-display:swap;src:url(assets/fonts/Tajawal-Regular.woff2) format('woff2'), url(assets/fonts/Tajawal-Regular.ttf) format('truetype');}
+@font-face{font-family:'Tajawal';font-style:normal;font-weight:700;font-display:swap;src:url(assets/fonts/Tajawal-Bold.woff2) format('woff2'), url(assets/fonts/Tajawal-Bold.ttf) format('truetype');}
+@font-face{font-family:'Tajawal';font-style:normal;font-weight:800;font-display:swap;src:url(assets/fonts/Tajawal-ExtraBold.woff2) format('woff2'), url(assets/fonts/Tajawal-ExtraBold.ttf) format('truetype');}
+</style>
+<style>
+:root{
+  --navy:#101828; --navy-soft:#1f2f55; --orange:#f97316; --gold:#fbbf24;
+  --beige:#f5ebda; --muted:#667085; --card:#fffdf8; --line:#e2d7bd;
+  --r-big:20px; --r-in:14px;
+  --shadow:0 2px 4px rgba(16,24,40,.08),0 8px 24px rgba(16,24,40,.10);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Tajawal',system-ui,sans-serif;background:var(--beige);color:var(--navy);line-height:1.7;min-height:100vh;padding-bottom:110px}
+h1,h2,h3,.num{font-family:'Cairo',sans-serif}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit;cursor:pointer;border:none;background:none}
+.ltr{direction:ltr;unicode-bidi:isolate}
+
+/* top bar */
+.topbar{position:sticky;top:0;z-index:60;background:rgba(16,24,40,.97);border-bottom:1px solid rgba(245,235,218,.14)}
+.topbar-in{max-width:1180px;margin:auto;display:flex;align-items:center;gap:12px;padding:11px 20px}
+.brand{display:flex;align-items:center;gap:10px;color:var(--beige);font-family:'Cairo';font-weight:900;font-size:1.15rem}
+.brand svg{width:32px;height:26px}
+.brand small{font-family:'Tajawal';font-weight:500;font-size:.72rem;color:#93a1ba;display:block;line-height:1.2}
+
+/* hero — cover token: navy radial + dots + orange corner circle */
+.hero{position:relative;overflow:hidden;color:#fff;text-align:center;padding:66px 20px 78px;
+  background:
+   radial-gradient(720px 340px at 88% 108%, rgba(249,115,22,.34), transparent 62%),
+   radial-gradient(1100px 520px at 50% -140px, #26406e 0%, var(--navy) 58%);}
+.hero::before{content:"";position:absolute;inset:0;opacity:.5;
+  background-image:radial-gradient(rgba(245,235,218,.14) 1px, transparent 1.4px);
+  background-size:26px 26px;pointer-events:none}
+.hero-in{position:relative;max-width:760px;margin:auto}
+.hero .crown-hero{width:64px;height:51px;margin-bottom:8px;filter:drop-shadow(0 6px 16px rgba(251,191,36,.4))}
+.hero-badge{display:inline-block;background:var(--orange);color:#fff;font-weight:800;font-size:.85rem;border-radius:99px;padding:5px 18px;margin-bottom:16px;box-shadow:0 4px 14px rgba(249,115,22,.4)}
+.hero h1{font-size:clamp(1.9rem,5.2vw,3rem);font-weight:900;line-height:1.3}
+.hero .hook-line{color:var(--orange);font-family:'Cairo';font-weight:800;font-size:clamp(1rem,2.6vw,1.3rem);margin-top:6px}
+.hero .tag{color:#c4cfe2;font-size:1rem;margin-top:12px}
+.hero .owner{display:inline-flex;align-items:center;gap:8px;margin-top:20px;background:rgba(251,191,36,.12);border:1px solid rgba(251,191,36,.4);color:var(--gold);border-radius:99px;padding:6px 18px;font-size:.88rem;font-weight:700}
+.hero .owner svg{width:20px;height:16px}
+.stats{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:32px}
+.stat{background:rgba(255,255,255,.06);border:1px solid rgba(245,235,218,.16);border-radius:var(--r-in);padding:10px 24px;min-width:120px}
+.stat b{display:block;font-family:'Cairo';font-size:1.5rem;color:#fff}
+.stat span{font-size:.82rem;color:#a9b5cb}
+
+/* layout + cards */
+.wrap{max-width:1180px;margin:auto;padding:36px 20px 30px}
+.sec-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:22px}
+.sec-head h2{font-size:1.5rem;font-weight:800}
+.sec-head .count{color:var(--muted);font-size:.9rem}
+.sec-head .line{flex:1;height:1px;background:var(--line);min-width:40px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:20px}
+.card{background:var(--card);border:2px solid var(--navy);border-radius:var(--r-big);box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column;transition:transform .18s,box-shadow .18s}
+.card:hover{transform:translateY(-4px);box-shadow:0 10px 30px rgba(16,24,40,.16)}
+.thumb{position:relative;aspect-ratio:16/9;display:grid;place-items:center;overflow:hidden}
+.thumb .ph-crown{width:44px;height:35px;opacity:.9;filter:drop-shadow(0 3px 8px rgba(0,0,0,.25))}
+.thumb .ph-num{position:absolute;inset-inline-start:14px;bottom:10px;font-family:'Cairo';font-weight:900;font-size:2.2rem;color:rgba(255,255,255,.92);text-shadow:0 2px 8px rgba(0,0,0,.3);line-height:1}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card-body{padding:16px 18px 18px;display:flex;flex-direction:column;gap:9px;flex:1}
+.card-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.pill{font-size:.74rem;font-weight:800;border-radius:99px;padding:3px 12px}
+.pill.cat{background:var(--beige);border:1px solid var(--line);color:#7c6a43}
+.pill.pending{background:#eef2f7;color:#667085;border:1px solid #cfd8e6}
+.pill.ready{background:#dcfae6;color:#12805c;border:1px solid #a6f4c5}
+.card h3{font-size:1.12rem;font-weight:800;line-height:1.45}
+.card .hook{color:var(--muted);font-size:.9rem;flex:1}
+.card-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}
+.btn{display:inline-flex;align-items:center;gap:7px;font-size:.83rem;font-weight:800;border-radius:99px;padding:8px 15px;transition:.18s;border:1.5px solid transparent}
+.btn.primary{background:var(--navy);color:#fff}
+.btn.primary:hover{background:var(--navy-soft)}
+.btn.ghost{border-color:var(--line);color:var(--muted);background:#fff}
+.btn.off{opacity:.5;cursor:not-allowed;pointer-events:none}
+.btn:not(.off):active{transform:scale(.97)}
+.soon{font-size:.72rem;color:#b3a67f;font-weight:700;align-self:center}
+.card.flash{animation:flash 1.6s ease}
+@keyframes flash{0%,60%{box-shadow:0 0 0 4px var(--orange)}100%{box-shadow:var(--shadow)}}
+.filter-note{background:#fff8ec;border:1.5px dashed #e5cf9e;color:#8a6d3b;border-radius:var(--r-in);padding:10px 16px;font-size:.9rem;font-weight:700;margin-bottom:18px;display:flex;align-items:center;gap:10px}
+.filter-note button{margin-inline-start:auto;font-weight:800;color:var(--orange);text-decoration:underline}
+
+/* floating library button + drawer (naat style) */
+.lib-fab{position:fixed;bottom:22px;right:22px;z-index:80;display:flex;align-items:center;gap:10px;background:var(--navy);color:#fff;border:2px solid var(--gold);border-radius:99px;padding:13px 22px;font-family:'Cairo';font-weight:800;font-size:1rem;box-shadow:0 10px 30px rgba(16,24,40,.35);transition:.2s}
+.lib-fab:hover{background:var(--navy-soft);transform:translateY(-2px)}
+.lib-fab svg{width:20px;height:16px}
+.drawer-veil{position:fixed;inset:0;background:rgba(16,24,40,.55);z-index:90;opacity:0;pointer-events:none;transition:.25s}
+.drawer{position:fixed;top:0;bottom:0;right:0;width:min(400px,92vw);background:var(--beige);z-index:95;transform:translateX(105%);transition:transform .3s cubic-bezier(.2,.8,.25,1);display:flex;flex-direction:column;box-shadow:-12px 0 40px rgba(16,24,40,.3)}
+body.lib-open .drawer{transform:translateX(0)}
+body.lib-open .drawer-veil{opacity:1;pointer-events:auto}
+.drawer-head{background:var(--navy);color:#fff;padding:18px 20px;display:flex;align-items:center;gap:10px}
+.drawer-head h3{font-size:1.15rem;font-weight:800;flex:1}
+.drawer-head svg{width:26px;height:21px}
+.drawer-close{color:#93a1ba;font-size:1.4rem;line-height:1;padding:4px 8px}
+.drawer-close:hover{color:#fff}
+.drawer-tools{padding:14px 16px 10px;display:flex;flex-direction:column;gap:10px}
+.search{display:flex;align-items:center;gap:8px;background:#fff;border:1.5px solid var(--line);border-radius:99px;padding:9px 16px}
+.search input{border:none;background:none;outline:none;font-family:inherit;font-size:.95rem;width:100%;color:var(--navy)}
+.chips{display:flex;gap:7px;flex-wrap:wrap}
+.chip{font-size:.78rem;font-weight:800;border-radius:99px;padding:6px 13px;border:1.5px solid var(--line);color:var(--muted);background:#fff;transition:.15s}
+.chip.active{background:var(--orange);border-color:var(--orange);color:#fff}
+.drawer-list{flex:1;overflow-y:auto;padding:6px 14px 20px}
+.lib-item{display:flex;align-items:center;gap:12px;width:100%;text-align:start;background:var(--card);border:1.5px solid var(--line);border-radius:var(--r-in);padding:11px 14px;margin-bottom:9px;transition:.15s}
+.lib-item:hover{border-color:var(--navy);transform:translateX(-3px)}
+.lib-item.sel{border-color:var(--orange);background:#fff4ea}
+.lib-item .n{width:34px;height:34px;flex:none;border-radius:10px;display:grid;place-items:center;font-family:'Cairo';font-weight:900;color:#fff;font-size:.95rem}
+.lib-item .t{font-weight:800;font-size:.93rem;line-height:1.4}
+.lib-item .h{color:var(--muted);font-size:.78rem}
+.lib-item .st{margin-inline-start:auto;font-size:.7rem;font-weight:800;color:#98a2b3;flex:none}
+.lib-all{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;background:var(--navy);color:#fff;border-radius:var(--r-in);padding:12px;font-weight:800;font-size:.95rem;margin-bottom:12px}
+.lib-all:hover{background:var(--navy-soft)}
+.empty-list{text-align:center;color:var(--muted);padding:36px 10px;font-size:.92rem}
+
+footer{background:var(--navy);color:#8b98af;text-align:center;padding:26px 20px;font-size:.86rem}
+footer b{color:var(--gold)}
+footer .fcrown{width:20px;height:16px;vertical-align:-3px;margin-inline-end:6px}
+
+@media (max-width:560px){
+  .hero{padding:48px 16px 60px}
+  .grid{grid-template-columns:1fr}
+  .wrap{padding:28px 14px 24px}
+  .lib-fab{padding:12px 18px;font-size:.93rem;bottom:16px;right:16px}
+}
+</style>
+</head>
+<body>
+
+<!-- Shared identity crown: provided joker-crown.svg, inlined verbatim as a symbol. Do not replace. -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<symbol id="joker-crown" viewBox="0 0 24 19">
+  <path d="M2 15 L1 4 L7 8 L12 1 L17 8 L23 4 L22 15 Z" fill="#fbbf24" stroke="#b8860b" stroke-width="0.8"/>
+  <rect x="2" y="15.5" width="20" height="2.6" rx="1.3" fill="#fbbf24" stroke="#b8860b" stroke-width="0.6"/>
+</symbol>
+</defs></svg>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="#"><svg><use href="#joker-crown"/></svg><span>سطرين <span class="ltr" style="font-size:.85em;color:#93a1ba">Satreen</span><small>مكتبة الـ٢٥ قصة</small></span></a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-in">
+    <svg class="crown-hero"><use href="#joker-crown"/></svg>
+    <div><span class="hero-badge">سطرين · مكتبة القصص</span></div>
+    <h1>مكتبة سطرين — ٢٥ قصة</h1>
+    <div class="hook-line"><span class="ltr">25</span> حكاية… كل حكاية بموقعها وملفها وبرومبتها</div>
+    <p class="tag">معلومة وحكاية في سطرين</p>
+    <span class="owner"><svg><use href="#joker-crown"/></svg>جوكر الملك أحمد — صاحب الفكرة والتنفيذ</span>
+    <div class="stats">
+      <div class="stat"><b class="ltr">25</b><span>قصة مرقّمة</span></div>
+      <div class="stat"><b class="ltr" id="stat-ready">0</b><span>جاهزة حتى الآن</span></div>
+      <div class="stat"><b class="ltr" id="stat-cats">0</b><span>تصنيفات</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="sec-head">
+    <h2>أفكار المكتبة</h2>
+    <span class="count">مرتّبة من <span class="ltr">1</span> إلى <span class="ltr">25</span> — المواقع والملفات تُفعّل فور وصولها</span>
+    <span class="line"></span>
+  </div>
+  <div id="filter-area"></div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<button class="lib-fab" id="lib-fab"><svg><use href="#joker-crown"/></svg>المكتبة</button>
+<div class="drawer-veil" id="drawer-veil"></div>
+<aside class="drawer" id="drawer" aria-label="مكتبة الأفكار">
+  <div class="drawer-head">
+    <svg><use href="#joker-crown"/></svg><h3>مكتبة الأفكار</h3>
+    <button class="drawer-close" id="drawer-close" aria-label="إغلاق">✕</button>
+  </div>
+  <div class="drawer-tools">
+    <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#667085" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="lib-q" type="search" placeholder="ابحث بالرقم أو العنوان…">
+    </label>
+    <div class="chips" id="lib-chips"></div>
+  </div>
+  <div class="drawer-list" id="drawer-list"></div>
+</aside>
+
+<footer>
+  <svg class="fcrown"><use href="#joker-crown"/></svg>سطرين | Satreen · <b>جوكر الملك أحمد</b> — صاحب الفكرة والتنفيذ · نسخة أولية بانتظار الملفات
+</footer>
+
+<!-- ====== manifest.json snapshot (project joker20, version 1, coordinator's file) ======
+      At runtime the hub fetches BASE + 'manifest.json' and uses it when present;
+      this inline copy is only the offline/self-contained fallback.
+      Links resolve as BASE + item path; BASE must point at the bundle root. -->
+<script id="joker20-manifest" type="application/json">{
+  "project": "joker20",
+  "title_ar": "سطرين | Satreen — مكتبة الـ٢٥ قصة",
+  "version": 5,
+  "rtl": true,
+  "lang": "ar",
+  "bundle_layout": {
+    "hub": "index.html",
+    "idea_site": "ideas/{slug}/index.html",
+    "idea_pdf": "ideas/{slug}/{slug}.pdf",
+    "idea_prompt": "ideas/{slug}/prompt.txt",
+    "idea_thumb": "ideas/{slug}/thumb.png",
+    "shared_assets": "assets/"
+  },
+  "notes_ar": "الهَب يقرأ manifest.json ويعرض العشرين فكرة في شبكة احترافية + مكتبة عائمة (ستايل موقع النعت) تختار كل المواقع أو فكرة بعينها. الروابط نسبية جوه الحزمة؛ مفيش استضافة عامة متأكدة لحد دلوقتي. status=ready يعني الملفات موجودة فعلًا، pending يعني لسه. ممنوع عرض أفكار بحالة ready قبل ما الملفات توصل فعلًا.",
+  "items": [
+    {
+      "slug": "microwave",
+      "accent": "#f97316",
+      "site": "ideas/microwave/index.html",
+      "pdf": "ideas/microwave/microwave.pdf",
+      "status": "ready",
+      "id": "microwave",
+      "number": 1,
+      "title": "قطعة شوكولاتة غيّرت المطبخ",
+      "hook": "حكاية الميكروويف وبيرسي سبنسر: سؤال واحد غيّر كل مطبخ",
+      "category": "اختراع بالصدفة",
+      "sort": 1,
+      "thumbnail": "ideas/microwave/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 1: قطعة شوكولاتة غيّرت المطبخ",
+      "prompt": "ideas/microwave/prompt.txt",
+      "pdf_download_name": "01 - قطعة شوكولاتة غيّرت المطبخ.pdf"
+    },
+    {
+      "slug": "penicillin",
+      "accent": "#0ea5e9",
+      "site": "ideas/penicillin/index.html",
+      "pdf": "ideas/penicillin/penicillin.pdf",
+      "status": "ready",
+      "id": "penicillin",
+      "number": 2,
+      "title": "طبق منسي غيّر الطب",
+      "hook": "حكاية البنسلين وألكسندر فليمنج: صدفة غيّرت وجه الطب وأنقذت الملايين",
+      "category": "اكتشاف طبي",
+      "sort": 2,
+      "thumbnail": "ideas/penicillin/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 2: طبق منسي غيّر الطب",
+      "prompt": "ideas/penicillin/prompt.txt",
+      "pdf_download_name": "02 - طبق منسي غيّر الطب.pdf"
+    },
+    {
+      "slug": "postit",
+      "accent": "#eab308",
+      "site": "ideas/postit/index.html",
+      "pdf": "ideas/postit/postit.pdf",
+      "status": "ready",
+      "id": "postit",
+      "number": 3,
+      "title": "صمغ ضعيف عمل أشهر ورقة",
+      "hook": "حكاية البوست-إت: اختراع فشل... وبقى على كل مكتب في العالم",
+      "category": "اختراع بالصدفة",
+      "sort": 3,
+      "thumbnail": "ideas/postit/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 3: صمغ ضعيف عمل أشهر ورقة",
+      "prompt": "ideas/postit/prompt.txt",
+      "pdf_download_name": "03 - صمغ ضعيف عمل أشهر ورقة.pdf"
+    },
+    {
+      "slug": "xray",
+      "accent": "#22d3ee",
+      "site": "ideas/xray/index.html",
+      "pdf": "ideas/xray/xray.pdf",
+      "status": "ready",
+      "id": "xray",
+      "number": 4,
+      "title": "أشعة شافت اللي تحت الجلد",
+      "hook": "حكاية الأشعة السينية ورونتجن: شاشة نورت لوحدها... فغيّرت الطب",
+      "category": "اكتشاف علمي",
+      "sort": 4,
+      "thumbnail": "ideas/xray/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 4: أشعة شافت اللي تحت الجلد",
+      "prompt": "ideas/xray/prompt.txt",
+      "pdf_download_name": "04 - أشعة شافت اللي تحت الجلد.pdf"
+    },
+    {
+      "slug": "rubber",
+      "accent": "#f97316",
+      "site": "ideas/rubber/index.html",
+      "pdf": "ideas/rubber/rubber.pdf",
+      "status": "ready",
+      "id": "rubber",
+      "number": 5,
+      "title": "قطعة مطاط وقعت على النار",
+      "hook": "حكاية جوديير وتقسية المطاط: هوس سنين... ولحظة نار واحدة",
+      "category": "اختراع بالصدفة",
+      "sort": 5,
+      "thumbnail": "ideas/rubber/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 5: قطعة مطاط وقعت على النار",
+      "prompt": "ideas/rubber/prompt.txt",
+      "pdf_download_name": "05 - قطعة مطاط وقعت على النار.pdf"
+    },
+    {
+      "slug": "teflon",
+      "accent": "#94a3b8",
+      "site": "ideas/teflon/index.html",
+      "pdf": "ideas/teflon/teflon.pdf",
+      "status": "ready",
+      "id": "teflon",
+      "number": 6,
+      "title": "أسطوانة غاز بقت طاسة",
+      "hook": "حكاية التفلون: غاز اختفى من أسطوانة... وظهر في كل مطبخ",
+      "category": "اختراع بالصدفة",
+      "sort": 6,
+      "thumbnail": "ideas/teflon/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 6: أسطوانة غاز بقت طاسة",
+      "prompt": "ideas/teflon/prompt.txt",
+      "pdf_download_name": "06 - أسطوانة غاز بقت طاسة.pdf"
+    },
+    {
+      "slug": "velcro",
+      "accent": "#84cc16",
+      "site": "ideas/velcro/index.html",
+      "pdf": "ideas/velcro/velcro.pdf",
+      "status": "ready",
+      "id": "velcro",
+      "number": 7,
+      "title": "شوكة لزقت في جاكيتة",
+      "hook": "حكاية الفيلكرو وجورج دي ميسترال: مشوار صيد شال فيه شوك، ورجع منه بفكرة قفلت الدنيا",
+      "category": "اختراع من الطبيعة",
+      "sort": 7,
+      "thumbnail": "ideas/velcro/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 7: شوكة لزقت في جاكيتة",
+      "prompt": "ideas/velcro/prompt.txt",
+      "pdf_download_name": "07 - شوكة لزقت في جاكيتة.pdf"
+    },
+    {
+      "slug": "superglue",
+      "accent": "#ef4444",
+      "site": "ideas/superglue/index.html",
+      "pdf": "ideas/superglue/superglue.pdf",
+      "status": "ready",
+      "id": "superglue",
+      "number": 8,
+      "title": "صمغ جه بالغلط ولسع الدنيا",
+      "hook": "حكاية الصمغ الخارق وهاري كوفر: مادة اتجاهلت مرتين، وفي المرة التالتة لزقت في التاريخ",
+      "category": "اختراع بالصدفة",
+      "sort": 8,
+      "thumbnail": "ideas/superglue/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 8: صمغ جه بالغلط ولسع الدنيا",
+      "prompt": "ideas/superglue/prompt.txt",
+      "pdf_download_name": "08 - صمغ جه بالغلط ولسع الدنيا.pdf"
+    },
+    {
+      "slug": "saccharin",
+      "accent": "#f472b6",
+      "site": "ideas/saccharin/index.html",
+      "pdf": "ideas/saccharin/saccharin.pdf",
+      "status": "ready",
+      "id": "saccharin",
+      "number": 9,
+      "title": "إيد متغسلتش وحلّت العشا",
+      "hook": "حكاية السكرين وكونستانتين فهلبرج: كيميائي نسي يغسل إيده، فاكتشف أحلى مادة عرفها الإنسان وقتها",
+      "category": "اكتشاف بالصدفة",
+      "sort": 9,
+      "thumbnail": "ideas/saccharin/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 9: إيد متغسلتش وحلّت العشا",
+      "prompt": "ideas/saccharin/prompt.txt",
+      "pdf_download_name": "09 - إيد متغسلتش وحلّت العشا.pdf"
+    },
+    {
+      "slug": "cornflakes",
+      "accent": "#fbbf24",
+      "site": "ideas/cornflakes/index.html",
+      "pdf": "ideas/cornflakes/cornflakes.pdf",
+      "status": "ready",
+      "id": "cornflakes",
+      "number": 10,
+      "title": "عجينة اتنسيت بقت فطار",
+      "hook": "حكاية الكورن فليكس والأخوين كيلوج: عجينة اتبلّت واترمت على النار، فطلعت أشهر وجبة فطار في العالم",
+      "category": "أكل بحكاية",
+      "sort": 10,
+      "thumbnail": "ideas/cornflakes/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 10: عجينة اتنسيت بقت فطار",
+      "prompt": "ideas/cornflakes/prompt.txt",
+      "pdf_download_name": "10 - عجينة اتنسيت بقت فطار.pdf"
+    },
+    {
+      "slug": "popsicle",
+      "accent": "#38bdf8",
+      "site": "ideas/popsicle/index.html",
+      "pdf": "ideas/popsicle/popsicle.pdf",
+      "status": "ready",
+      "id": "popsicle",
+      "number": 11,
+      "title": "عصير نسي في التلج",
+      "hook": "حكاية المصاصة وفرانك إيبرسون: طفل عنده 11 سنة نسي كوبايته في البرد، فصحى لقاها أشهر تسالي الصيف",
+      "category": "أكل بحكاية",
+      "sort": 11,
+      "thumbnail": "ideas/popsicle/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 11: عصير نسي في التلج",
+      "prompt": "ideas/popsicle/prompt.txt",
+      "pdf_download_name": "11 - عصير نسي في التلج.pdf"
+    },
+    {
+      "slug": "playdoh",
+      "accent": "#fb7185",
+      "site": "ideas/playdoh/index.html",
+      "pdf": "ideas/playdoh/playdoh.pdf",
+      "status": "ready",
+      "id": "playdoh",
+      "number": 12,
+      "title": "منظف حيطان بقى لعبة",
+      "hook": "حكاية صلصال بلاي-دوه: عجينة اتعملت تغسل السخام، فمدرسة حضانة حولتها لأشهر لعبة أطفال",
+      "category": "لعبة بحكاية",
+      "sort": 12,
+      "thumbnail": "ideas/playdoh/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 12: منظف حيطان بقى لعبة",
+      "prompt": "ideas/playdoh/prompt.txt",
+      "pdf_download_name": "12 - منظف حيطان بقى لعبة.pdf"
+    },
+    {
+      "slug": "chocochip",
+      "accent": "#a16207",
+      "site": "ideas/chocochip/index.html",
+      "pdf": "ideas/chocochip/chocochip.pdf",
+      "status": "ready",
+      "id": "chocochip",
+      "number": 13,
+      "title": "شوكولاتة ماساحتش",
+      "hook": "حكاية كوكيز الشوكولاتة وروث ويكفيلد: سيدة قصّت الشوكولاتة متوقعة إنها تسيح، ففضلت قطع... وبقت أشهر كوكيز في العالم",
+      "category": "أكل بحكاية",
+      "sort": 13,
+      "thumbnail": "ideas/chocochip/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 13: شوكولاتة ماساحتش",
+      "prompt": "ideas/chocochip/prompt.txt",
+      "pdf_download_name": "13 - شوكولاتة ماساحتش.pdf"
+    },
+    {
+      "slug": "matches",
+      "accent": "#f97316",
+      "site": "ideas/matches/index.html",
+      "pdf": "ideas/matches/matches.pdf",
+      "status": "ready",
+      "id": "matches",
+      "number": 14,
+      "title": "عود كشط الأرض فولع",
+      "hook": "حكاية الكبريت وجون ووكر: صيدلي كان بيقلّب مخلوط كيميائي، والعود كشط الأرض... فولّع",
+      "category": "اختراع بالصدفة",
+      "sort": 14,
+      "thumbnail": "ideas/matches/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 14: عود كشط الأرض فولع",
+      "prompt": "ideas/matches/prompt.txt",
+      "pdf_download_name": "14 - عود كشط الأرض فولع.pdf"
+    },
+    {
+      "slug": "teabag",
+      "accent": "#65a30d",
+      "site": "ideas/teabag/index.html",
+      "pdf": "ideas/teabag/teabag.pdf",
+      "status": "ready",
+      "id": "teabag",
+      "number": 15,
+      "title": "كيس هدية بقى شاي",
+      "hook": "حكاية أكياس الشاي وتوماس سوليفان: تاجر بعت عينات في أكياس حرير، والعملاء غطسوها في المية السخنة كما هي",
+      "category": "أكل بحكاية",
+      "sort": 15,
+      "thumbnail": "ideas/teabag/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 15: كيس هدية بقى شاي",
+      "prompt": "ideas/teabag/prompt.txt",
+      "pdf_download_name": "15 - كيس هدية بقى شاي.pdf"
+    },
+    {
+      "slug": "icecreamcone",
+      "accent": "#e879f9",
+      "site": "ideas/icecreamcone/index.html",
+      "pdf": "ideas/icecreamcone/icecreamcone.pdf",
+      "status": "ready",
+      "id": "icecreamcone",
+      "number": 16,
+      "title": "بسكوتة اتلفت في معرض",
+      "hook": "حكاية كون الآيس كريم: بياع خلصت منه الأطباق في معرض عالمي، فجاره البياع لفّ له ويفة... والحكاية الكاملة عندها أكتر من بطل",
+      "category": "أكل بحكاية",
+      "sort": 16,
+      "thumbnail": "ideas/icecreamcone/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 16: بسكوتة اتلفت في معرض",
+      "prompt": "ideas/icecreamcone/prompt.txt",
+      "pdf_download_name": "16 - بسكوتة اتلفت في معرض.pdf"
+    },
+    {
+      "slug": "chips",
+      "accent": "#facc15",
+      "site": "ideas/chips/index.html",
+      "pdf": "ideas/chips/chips.pdf",
+      "status": "ready",
+      "id": "chips",
+      "number": 17,
+      "title": "شكوى طبخت التشيبس",
+      "hook": "حكاية رقائق البطاطس: زبون رجّع طبقه أكتر من مرة لأنه «سميك»، فالشيف قرر يقطع أرفع شريحة ممكنة... والحكاية عندها وجه تاني",
+      "category": "أكل بحكاية",
+      "sort": 17,
+      "thumbnail": "ideas/chips/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 17: زعل طباخ عمل أشهر سناك",
+      "prompt": "ideas/chips/prompt.txt",
+      "pdf_download_name": "17 - شكوى طبخت التشيبس.pdf"
+    },
+    {
+      "slug": "cocacola",
+      "accent": "#dc2626",
+      "site": "ideas/cocacola/index.html",
+      "pdf": "ideas/cocacola/cocacola.pdf",
+      "status": "ready",
+      "id": "cocacola",
+      "number": 18,
+      "title": "شراب صدفة في صيدلية",
+      "hook": "حكاية كوكاكولا: صيدلي في أتلانتا خلط شراب لعلاج الصداع... وموظفه غلط وحط عليه صودا بدل مية",
+      "category": "مشروب بحكاية",
+      "sort": 18,
+      "thumbnail": "ideas/cocacola/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 18: دوا صداع بقى مشروب",
+      "prompt": "ideas/cocacola/prompt.txt",
+      "pdf_download_name": "18 - شراب صدفة في صيدلية.pdf"
+    },
+    {
+      "slug": "sandwich",
+      "accent": "#d97706",
+      "site": "ideas/sandwich/index.html",
+      "pdf": "ideas/sandwich/sandwich.pdf",
+      "status": "ready",
+      "id": "sandwich",
+      "number": 19,
+      "title": "أكل من غير ما تسيب اللعب",
+      "hook": "حكاية الساندوتش: لورد إنجليزي مدمن قمار طلب اللحم بين قطعتي عيش عشان ميسيبش طاولة اللعب... والحكاية ليها رواية تانية أهدى",
+      "category": "أكل بحكاية",
+      "sort": 19,
+      "thumbnail": "ideas/sandwich/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 19: وجبة على طاولة قمار",
+      "prompt": "ideas/sandwich/prompt.txt",
+      "pdf_download_name": "19 - أكل من غير ما تسيب اللعب.pdf"
+    },
+    {
+      "slug": "safetyglass",
+      "accent": "#2dd4bf",
+      "site": "ideas/safetyglass/index.html",
+      "pdf": "ideas/safetyglass/safetyglass.pdf",
+      "status": "ready",
+      "id": "safetyglass",
+      "number": 20,
+      "title": "إزاز وقع وما اتكسرش",
+      "hook": "حكاية الإزاز الأمان: كيميائي فرنساوي وقعت منه قارورة في المعمل وما تكسرتش... فاكتشف سر الطبقة اللاصقة اللي جواها",
+      "category": "اختراع بالصدفة",
+      "sort": 20,
+      "thumbnail": "ideas/safetyglass/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 20: قارورة وقعت وماتكسرتش",
+      "prompt": "ideas/safetyglass/prompt.txt",
+      "pdf_download_name": "20 - إزاز وقع وما اتكسرش.pdf"
+    },
+    {
+      "slug": "instinct",
+      "accent": "#f97316",
+      "site": "ideas/instinct/index.html",
+      "pdf": "ideas/instinct/instinct.pdf",
+      "status": "ready",
+      "id": "instinct",
+      "number": 21,
+      "title": "الرسالة اللي ما وقفتش عند رد",
+      "hook": "حكاية توضيحية عن Instinct",
+      "category": "قصة خاصة عن Instinct",
+      "sort": 21,
+      "thumbnail": "ideas/instinct/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 21: الرسالة اللي ما وقفتش عند رد",
+      "prompt": "ideas/instinct/prompt.txt",
+      "pdf_download_name": "21 - الرسالة اللي ما وقفتش عند رد.pdf"
+    },
+    {
+      "slug": "abu-simbel",
+      "accent": "#d97706",
+      "site": "ideas/abu-simbel/index.html",
+      "pdf": "ideas/abu-simbel/abu-simbel.pdf",
+      "status": "ready",
+      "id": "abu-simbel",
+      "number": 22,
+      "title": "الجبل اللي اتفك واتركب تاني",
+      "hook": "حكاية إنقاذ معبدي أبو سمبل",
+      "category": "تاريخ وهندسة",
+      "sort": 22,
+      "thumbnail": "ideas/abu-simbel/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 22: الجبل اللي اتفك واتركب تاني",
+      "prompt": "ideas/abu-simbel/prompt.txt",
+      "pdf_download_name": "22 - الجبل اللي اتفك واتركب تاني.pdf"
+    },
+    {
+      "slug": "apollo13",
+      "accent": "#0ea5e9",
+      "site": "ideas/apollo13/index.html",
+      "pdf": "ideas/apollo13/apollo13.pdf",
+      "status": "ready",
+      "id": "apollo13",
+      "number": 23,
+      "title": "الفلتر موجود... بس مش راكب",
+      "hook": "حكاية أبولو 13 والهواء اللي لازم يفضل صالح للتنفس",
+      "category": "فضاء وهندسة",
+      "sort": 23,
+      "thumbnail": "ideas/apollo13/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 23: الفلتر موجود... بس مش راكب",
+      "prompt": "ideas/apollo13/prompt.txt",
+      "pdf_download_name": "23 - الفلتر موجود... بس مش راكب.pdf"
+    },
+    {
+      "slug": "john-snow",
+      "accent": "#14b8a6",
+      "site": "ideas/john-snow/index.html",
+      "pdf": "ideas/john-snow/john-snow.pdf",
+      "status": "ready",
+      "id": "john-snow",
+      "number": 24,
+      "title": "طلمبة من غير إيد... وحكاية مش بالبساطة دي",
+      "hook": "جون سنو والتحقيق في وباء سوهو",
+      "category": "علم وتحقيق",
+      "sort": 24,
+      "thumbnail": "ideas/john-snow/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 24: طلمبة من غير إيد... وحكاية مش بالبساطة دي",
+      "prompt": "ideas/john-snow/prompt.txt",
+      "pdf_download_name": "24 - طلمبة من غير إيد... وحكاية مش بالبساطة دي.pdf"
+    },
+    {
+      "slug": "mars-orbiter",
+      "accent": "#ef4444",
+      "site": "ideas/mars-orbiter/index.html",
+      "pdf": "ideas/mars-orbiter/mars-orbiter.pdf",
+      "status": "ready",
+      "id": "mars-orbiter",
+      "number": 25,
+      "title": "المركبة اللي ضاعت بين وحدتين",
+      "hook": "حكاية Mars Climate Orbiter",
+      "category": "فضاء وهندسة",
+      "sort": 25,
+      "thumbnail": "ideas/mars-orbiter/thumb.png",
+      "thumbnail_alt": "غلاف فكرة 25: المركبة اللي ضاعت بين وحدتين",
+      "prompt": "ideas/mars-orbiter/prompt.txt",
+      "pdf_download_name": "25 - المركبة اللي ضاعت بين وحدتين.pdf"
+    }
+  ],
+  "routing_ar": "الهَب index.html في جذر الحزمة (مش جوه فولدر hub). كل المسارات في manifest.json نسبية لجذر الحزمة، فالهَب يفتحها زي ما هي (ideas/microwave/index.html). مفيش baseURL محتاج. لو الهَب اتفتح كملف محلي file:// الروابط النسبية هتشتغل عادي. الخطوط والتاج في assets/ ومرفقة كملفات.",
+  "fields_note_ar": "pdf_download_name: اسم ملف الـPDF الفعلي عند التحميل/التسليم (رقم بخانتين + العنوان العربي). المسارات الداخلية pdf/site تفضل slug إنجليزي ثابت. روابط الـPDF في الهَب تستخدم download=pdf_download_name."
+}</script>
+
+<script>
+"use strict";
+/* ============ configuration ============ */
+/* BASE resolves the manifest's bundle-root-relative paths (site/pdf/prompt/thumbnail)
+   and the live manifest.json itself. Hub ships at the bundle root as index.html, so default './'.
+   file:// note: live fetch of manifest.json is blocked by browsers on file://,
+   so the embedded snapshot renders there; on a static host the live manifest wins.
+   pdf_download_name (manifest v2): verbatim value for the PDF link's download attribute.
+   If an item is ready but lacks it, the PDF button stays disabled (no generic-name download). */
+const BASE = './';
+
+/* ============ data ============ */
+const MANIFEST = JSON.parse(document.getElementById('joker20-manifest').textContent);
+let ITEMS = MANIFEST.items.slice().sort((a,b)=>(a.sort??a.number)-(b.sort??b.number));
+fetch(BASE+'manifest.json').then(r=>r.ok?r.json():null).then(d=>{
+  if(d&&Array.isArray(d.items)&&d.items.length){
+    ITEMS=d.items.slice().sort((a,b)=>(a.sort??a.number)-(b.sort??b.number));
+    selected=null; renderAll();
+  }
+}).catch(()=>{/* offline preview: keep inline snapshot */});
+
+const resolve=p=>p?(BASE+p):null;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const isReady=i=>i.status==='ready'||i.status==='published';
+
+/* ============ render ============ */
+const grid=document.getElementById('grid');
+let selected=null, catFilter='all', query='';
+
+function linkBtn(url,label,ready,dl){
+  if(ready&&url){
+    if(dl==='__missing__')return `<span class="btn ghost off" aria-disabled="true" title="اسم ملف التحميل لم يصل في manifest — راجع المنسق">${label} · اسم الملف ناقص</span>`;
+    const d=dl?` download="${esc(dl)}"`:'';
+    return `<a class="btn ghost" href="${esc(url)}"${d} target="_blank" rel="noopener">${label}</a>`;
+  }
+  return `<span class="btn ghost off" aria-disabled="true">${label} · قريبًا</span>`;
+}
+function card(i){
+  const ready=isReady(i), ac=i.accent||'#f97316';
+  const th=(ready&&i.thumbnail)
+    ?`<img src="${esc(resolve(i.thumbnail))}" alt="${esc(i.thumbnail_alt||i.title||'')}" loading="lazy">`
+    :`<svg class="ph-crown"><use href="#joker-crown"/></svg><span class="ph-num ltr">${i.number}</span>`;
+  return `<article class="card" id="card-${esc(i.slug)}">
+    <div class="thumb" style="background:linear-gradient(135deg,${ac},${ac}cc 55%,#101828)">${th}</div>
+    <div class="card-body">
+      <div class="card-meta">
+        <span class="pill cat">${esc(i.category||'بدون تصنيف')}</span>
+        ${ready?'<span class="pill ready">جاهزة</span>':'<span class="pill pending">في الانتظار</span>'}
+      </div>
+      <h3>${esc(i.title||('الفكرة رقم '+i.number))}</h3>
+      <p class="hook">${esc(i.hook||'')}</p>
+      <div class="card-actions">
+        ${linkBtn(resolve(i.site),'الموقع التفاعلي',ready)}
+        ${linkBtn(resolve(i.pdf),'PDF',ready, i.pdf?(i.pdf_download_name||'__missing__'):null)}
+        ${linkBtn(resolve(i.prompt),'البرومبت',ready)}
+      </div>
+      ${ready?'':'<span class="soon">الملفات في الطريق — تُفعّل تلقائيًا عند وصولها</span>'}
+    </div>
+  </article>`;
+}
+function renderGrid(){
+  const list=ITEMS.filter(i=>{
+    if(selected&&i.slug!==selected)return false;
+    if(catFilter!=='all'&&i.category!==catFilter)return false;
+    if(query){const h=((i.title||'')+' '+(i.hook||'')+' '+(i.category||'')+' '+i.number).toLowerCase();if(!h.includes(query))return false;}
+    return true;
+  });
+  const fa=document.getElementById('filter-area');
+  if(selected||catFilter!=='all'||query){
+    const label=selected?('فكرة واحدة: '+esc((ITEMS.find(x=>x.slug===selected)||{}).title||selected))
+      :(catFilter!=='all'?('تصنيف: '+esc(catFilter)):('بحث: '+esc(query)));
+    fa.innerHTML=`<div class="filter-note">📚 ${label} — عرض ${list.length} من 20<button id="clear-f">عرض الكل</button></div>`;
+    document.getElementById('clear-f').onclick=()=>{selected=null;catFilter='all';query='';document.getElementById('lib-q').value='';renderAll();};
+  }else fa.innerHTML='';
+  grid.innerHTML=list.length?list.map(card).join('')
+    :`<div style="grid-column:1/-1;text-align:center;color:var(--muted);padding:50px 10px">لا توجد نتائج مطابقة.</div>`;
+}
+function renderStats(){
+  document.getElementById('stat-ready').textContent=ITEMS.filter(isReady).length;
+  document.getElementById('stat-cats').textContent=new Set(ITEMS.map(i=>i.category).filter(Boolean)).size;
+}
+
+/* drawer */
+function renderDrawer(){
+  const cats=['all',...new Set(ITEMS.map(i=>i.category).filter(Boolean))];
+  document.getElementById('lib-chips').innerHTML=cats.map(c=>
+    `<button class="chip ${c===catFilter?'active':''}" data-c="${esc(c)}">${c==='all'?'كل التصنيفات':esc(c)}</button>`).join('');
+  const q=query;
+  const list=ITEMS.filter(i=>{
+    if(catFilter!=='all'&&i.category!==catFilter)return false;
+    if(q){const h=((i.title||'')+' '+(i.hook||'')+' '+i.number).toLowerCase();if(!h.includes(q))return false;}
+    return true;
+  });
+  document.getElementById('drawer-list').innerHTML=
+    `<button class="lib-all" id="lib-all">📚 عرض كل الأفكار (20)</button>`+
+    (list.length?list.map(i=>`
+      <button class="lib-item ${i.slug===selected?'sel':''}" data-s="${esc(i.slug)}">
+        <span class="n ltr" style="background:${i.accent||'#f97316'}">${i.number}</span>
+        <span><span class="t">${esc(i.title||'')}</span><br><span class="h">${esc(i.hook||'')}</span></span>
+        <span class="st">${isReady(i)?'جاهزة':'قريبًا'}</span>
+      </button>`).join('')
+    :`<div class="empty-list">لا توجد أفكار مطابقة للبحث.</div>`);
+  document.getElementById('lib-all').onclick=()=>{selected=null;renderAll();closeDrawer();};
+  document.querySelectorAll('.lib-item').forEach(b=>b.onclick=()=>{
+    selected=b.dataset.s;renderAll();closeDrawer();
+    const el=document.getElementById('card-'+b.dataset.s);
+    if(el){el.scrollIntoView({behavior:'smooth',block:'center'});el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash');}
+  });
+  document.querySelectorAll('#lib-chips .chip').forEach(c=>c.onclick=()=>{catFilter=c.dataset.c;renderAll();});
+}
+function renderAll(){renderStats();renderGrid();renderDrawer();}
+
+const body=document.body;
+function openDrawer(){body.classList.add('lib-open');}
+function closeDrawer(){body.classList.remove('lib-open');}
+document.getElementById('lib-fab').onclick=openDrawer;
+document.getElementById('drawer-close').onclick=closeDrawer;
+document.getElementById('drawer-veil').onclick=closeDrawer;
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer();});
+document.getElementById('lib-q').addEventListener('input',e=>{query=e.target.value.trim().toLowerCase();renderAll();});
+
+renderAll();
+</script>
+</body>
+</html>
