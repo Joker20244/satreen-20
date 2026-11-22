@@ -1,0 +1,35 @@
+name: Install Satreen assets
+on:
+  push:
+    paths:
+      - '.github/workflows/unpack-assets.yml'
+      - 'assets/8-satreen-assets.zip'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and unpack authored assets
+        run: |
+          python3 - <<'PYTHON'
+          import hashlib, pathlib, zipfile
+          p = pathlib.Path('assets/8-satreen-assets.zip')
+          if not p.exists():
+              raise SystemExit('Asset archive already installed or missing')
+          assert hashlib.sha256(p.read_bytes()).hexdigest() == 'c4f6b7706855f276d43a19fd018f49680a154f4297cb4334750553b756f92ad9', 'Archive hash mismatch'
+          with zipfile.ZipFile(p) as z:
+              for n in z.namelist():
+                  q=pathlib.PurePosixPath(n)
+                  assert not q.is_absolute() and '..' not in q.parts
+                  assert q.parts[0] in ('assets','ideas')
+              z.extractall('.')
+          p.unlink()
+          PYTHON
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets ideas
+          git commit -m 'Install verified fonts covers and all 20 PDFs'
+          git push
