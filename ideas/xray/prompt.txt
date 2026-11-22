@@ -1,0 +1,21 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "أشعة شافت اللي تحت الجلد" (the story of Wilhelm Röntgen and the accidental discovery of X-rays).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name X-rays and do NOT show any skeleton in the first 15 seconds. Dive straight into the mystery (a dark lab, a covered tube, and a screen glowing across the room for no reason), hold the tension, then reveal the X-ray at the end of scene 1 (around 0:20 to 0:30). The title text appears only after the reveal.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE DARK LAB + GLOW VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The dark lab: a drawn 1895 laboratory in near darkness, one cathode-ray tube covered in black cardboard, benches fading into shadow.
+- The impossible glow: a small fluorescent screen glowing green across the room while the tube is fully covered, with a drawn light path that should not exist.
+- The hand shadow: a drawn hand silhouette placed between tube and screen, its bones appearing brighter than the flesh outline, symbolic not photographic.
+- The famous photo: a stylized recreation of the first X-ray image idea: a hand outline, darker bones, and a clear ring on the finger, always labeled as an artistic recreation.
+- The unknown X: a big mathematical X letter floating over the setup, standing for 'unknown'.
+- The world reacts: drawn newspaper front pages in several languages fanning out, then a doctor's office icon and a factory icon lighting up.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Röntgen, 3 The covered tube, 4 Weeks of isolation, 5 The hand image, 6 The world ignites, 7 Takeaway, 8 End card.
+
+FACT RULES (do not break): Röntgen noticed the glowing screen in November 1895 while experimenting with a covered cathode-ray tube; the glow was unexplained at first. He spent weeks investigating alone before publishing. The first famous X-ray image was of his wife Anna Bertha's hand with her ring visible. He received the very first Nobel Prize in Physics in 1901. He preferred the name X-rays (X for unknown). No invented dialogue beyond documented reactions, no claims he invented a medical device, and no modern radiation-safety advice.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
