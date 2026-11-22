@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "شراب صدفة في صيدلية" (the story of John Pemberton and the accidental soda mix).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name Coca-Cola in the first 15 seconds. Dive straight into the mystery: an Atlanta pharmacist mixing a headache syrup, and his clerk accidentally pouring soda water instead of still water, creating something customers could not stop ordering.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE PHARMACY SODA FOUNTAIN VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The pharmacy: an 1886 Atlanta pharmacy drawn, shelves of tonics and bottles, a marble soda fountain, the pharmacist's copper kettle.
+- The mistake pour: a drawn glass, syrup at the bottom, a stream of soda water fizzing into it instead of still water, bubbles rising, the clerk's worried face.
+- The name: the famous flowing script logo being sketched in a ledger by the bookkeeper, drawn stroke by stroke.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is John Pemberton, 3 The accidental mix, 4 The name and the script, 5 From pharmacy to the world, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): John Stith Pemberton, an Atlanta pharmacist, created the Coca-Cola syrup in 1886, first sold at Jacobs' Pharmacy on May 8, 1886, mixed with carbonated water at the soda fountain. The popular account says the soda mix was a happy accident or a customer request; keep it as the commonly told version. Frank Robinson, Pemberton's bookkeeper, named the drink and designed its script logo. Asa Candler later acquired the formula rights and built the company. Mention that the original syrup contained coca leaf extract (with cocaine removed later) only factually and briefly, without sensational detail.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
