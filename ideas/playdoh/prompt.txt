@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "منظف حيطان بقى لعبة" (the story of Play-Doh, from wallpaper cleaner to toy).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name Play-Doh in the first 15 seconds. Dive straight into the mystery: a company about to go bankrupt because nobody needs its product anymore, and a nursery teacher with a strange idea.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE SOOT + CLASSROOM VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The dying product: a 1950s wallpaper drawn with soot smudges, a small tin of cleaning putty, a sales chart drawn falling.
+- The classroom: a nursery classroom drawn warm, kids' hands rolling and shaping soft dough, a teacher watching the same putty becoming toys.
+- The transformation: one drawn ball of putty split in half, one side gray (cleaner) and one side colorful (toy), with a small springy morph between them.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 The soot putty, 3 The teacher's call, 4 A cleaner reborn as a toy, 5 The toy that taught generations, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): Play-Doh began as a wallpaper-cleaning putty made by Kutol, a Cincinnati soap company, in the 1930s, used to remove coal soot from wallpaper. By the 1950s, the shift to oil and gas heating killed demand. Joseph McVicker of Kutol learned from his sister-in-law Kay Zufall, a nursery school teacher, that kids loved modeling with the putty. It was rebranded as Play-Doh in 1956 and marketed to schools and on children's TV. No invented dialogue.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
