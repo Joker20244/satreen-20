@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "صمغ جه بالغلط ولسع الدنيا" (the story of Harry Coover and cyanoacrylate, the accidental super glue).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name super glue and do NOT show any glue tube in the first 15 seconds. Dive straight into the mystery: a scientist annoyed because his instruments keep getting ruined by a material that sticks to everything.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE STUCK VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The ruined tool: optical prisms and lab tools drawn with two parts stuck together, a scientist trying and failing to pull them apart.
+- The molecule moment: a stylized molecule drawn in lines, with two surfaces snapping together, water droplets drawn tiny to show the reaction starts with moisture.
+- The timeline: the same material drawn appearing twice on a timeline, 1942 and 1951, before finally becoming a product in 1958.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Harry Coover, 3 The annoying material, 4 Nine years on the shelf, 5 Eastman 910, 6 From workshop to battlefield, 7 Takeaway, 8 End card.
+
+FACT RULES (do not break): Cyanoacrylate was first encountered in 1942 at Eastman Kodak while Harry Coover's team searched for clear plastic for gun sights; it stuck to everything and was set aside. In 1951 Coover and Fred Joyner rediscovered it while working on jet canopies. It was marketed in 1958 as Eastman 910. During the Vietnam War a sprayable form was used by medics to seal wounds. No invented dialogue and no exaggerated strength claims.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
