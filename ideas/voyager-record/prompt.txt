@@ -1,0 +1,25 @@
+FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.
+
+HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.
+
+Open on an addressless message, then reveal the record carried by Voyager. No received notification, alien receiver or live transmission beam.
+
+Use a labeled copper-and-gold-layer schematic. Clearly distinguish a carried phonograph record from a real-time radio broadcast.
+
+Show silent pictograms for natural sounds, images, music and 55-language greetings. Do not play record audio, music, sound effects or generated voices.
+
+Present three abstract instruction categories: playback, location and elapsed time. Do not fabricate a scientifically accurate cover diagram from memory.
+
+Frame selected aspects of a diverse symbolic Earth, then show that the selection is necessarily incomplete. Avoid claiming all cultures are exhaustively represented.
+
+Let the trajectory continue beyond the frame without a fabricated destination or discovery scene. Keep hope distinct from evidence of contact.
+
+Close on the contrast between a small record and a large diverse world. Use only Joker's narration and the unchanged Satreen logo.
+
+STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.
+AUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.
+FACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.
+END CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.
+DELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.
+
+STORY-SPECIFIC FACT CHECK: The record is gold-plated copper and physically carried, not solid gold or a live broadcast. No evidence of reception by another civilization is claimed. Do not play any of its recorded audio.

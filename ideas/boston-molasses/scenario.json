@@ -1,0 +1,243 @@
+{
+  "slug": "boston-molasses",
+  "n": "جديد",
+  "title": "اليوم اللي السائل التقيل بقى كارثة",
+  "hook": "فيضان الدبس في بوسطن سنة 1919",
+  "duration_ar": "حوالي 5 دقائق، حسب التسجيل",
+  "scenes": [
+    {
+      "name": "مش كل فيضان مية",
+      "a": "0:00",
+      "z": "0:42",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "لما تسمع كلمة فيضان، غالبا تتخيل مية.",
+        "لكن في بوسطن سنة ألف تسعمية وتسعتاشر، مادة تقيلة ولزجة خرجت من خزان صناعي وعملت كارثة في حي سكني وشوارع شغل.",
+        "كانت دبس، أو مولاس.",
+        "غرابة المادة ممكن تخلي العنوان يبدو طريفا لأول وهلة، لكن الحكاية نفسها مش مضحكة، لأن ناس فقدت حياتها وناس اتصابت.",
+        "اللي يستحق نحكيه هنا مش غرابة فيضان من شيء حلو المذاق، لكن السؤال الأخطر: إزاي علامات خلل في خزان تبقى موجودة، وبعدين يحصل انهيار يأثر في منطقة كاملة؟",
+        "دي حكاية عن تجاهل التحذير قبل ما يبقى اسمه كارثة."
+      ],
+      "screen": "**مش كل فيضان مية**",
+      "visual": "خزان بعيد وخط تسرب صغير، مع تنبيه: حكاية كارثة تاريخية، بلا مشاهد قاسية.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "الخزان كان جزءا من صناعة",
+      "a": "0:42",
+      "z": "1:21",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "الخزان كان في نورث إند في بوسطن، وبيخزن مولاس للاستخدام الصناعي قبل نقله لمعامل تقطير.",
+        "يعني ما بنتكلمش عن برميل صغير وقع في مطبخ.",
+        "ده مخزون ضخم داخل منشأة، وحواليه عمال وسكان ومواصلات ومبان.",
+        "الفرق في الحجم بيغير طبيعة الخطر تماما.",
+        "حاجة نعرفها في البيت بكميات قليلة ما تبقاش بلا خطورة لما تتخزن بكتلة كبيرة فوق الأرض.",
+        "وزن المحتوى، وقوة الجدار، وجودة الإنشاء والمتابعة، كلها تبقى جزءا من سلامة المكان.",
+        "ولو السائل شكله مألوف، فده مش إعفاء من إننا نتعامل مع شروط تخزينه بجدية هندسية."
+      ],
+      "screen": "**الخزان كان جزءا من صناعة**",
+      "visual": "قطاع عام للخزان ومحيطه، دون أرقام أبعاد أو نموذج إنشائي يصلح للتنفيذ.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "التحذير اللي كان ظاهر",
+      "a": "1:21",
+      "z": "2:02",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "أرشيف مدينة بوسطن بيذكر إن السكان كانوا عارفين إن الخزان بيسرب، وإن فيه شكاوى عن المادة اللي بتخرج من الوصلات.",
+        "ويعرض كمان إن مهندسين لاحقا وجدوا مشكلات في سمك الجدران وقابليتها للتشقق.",
+        "التفاصيل دي مهمة لأنها بتنقل الحكاية من مفاجأة ظهرت من عدم، إلى منشأة كان فيها خلل.",
+        "طبعا مش كل تسريب معناه بالضرورة نفس النهاية في كل خزان، وإحنا مش بنعمل تشخيصا هندسيا لموقع حالي.",
+        "لكن في الحادثة دي، علامات المشكلة جزء من السجل التاريخي.",
+        "لما تبقى الإشارة مزعجة ومتكررة، اعتياد الناس عليها ما يحولهاش إلى دليل أمان."
+      ],
+      "screen": "**التحذير اللي كان ظاهر**",
+      "visual": "نقاط تسرب رمزية تتحول إلى بطاقات ملاحظات، من غير اقتباسات شكاوى مزيفة.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "خمستاشر يناير",
+      "a": "2:02",
+      "z": "2:44",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "في خمستاشر يناير سنة ألف تسعمية وتسعتاشر، جدار الخزان انهار، والدبس اندفع في المنطقة.",
+        "حصل تدمير لمبان ومنشآت، واتعقدت حركة الإنقاذ والتنظيف بسبب المادة اللزجة والحطام.",
+        "وبحسب المصادر الرسمية، واحد وعشرون شخصا توفوا، ومية وخمسين اتصابوا.",
+        "هنقف عند الأرقام بالاحترام اللي تستحقه، من غير إعادة تمثيل آلام أشخاص أو استخدام تفاصيلهم عشان نزود إثارة.",
+        "فيه فرق بين إننا نفهم حجم الحدث، وبين إننا نحوّل اللي مروا بيه لفرجة.",
+        "القصة الهندسية هنا مش منفصلة عن البشر؛ أي كلام عن جدار أو تكلفة أو رقابة، وراه في النهاية حياة ناس بتشتغل وتعيش جنب المنشأة."
+      ],
+      "screen": "**خمستاشر يناير**",
+      "visual": "تاريخ وبطاقة أرقام هادئة، ثم حطام هندسي رمزي بلا بشر أو حيوانات متأذية.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "بعدها جه سؤال المسؤولية",
+      "a": "2:44",
+      "z": "3:23",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "بعد الكارثة، التحقيقات والقضية القانونية رجعوا لحالة الخزان وبنائه.",
+        "أرشيف بوسطن بيذكر إن تقريرا قضائيا سنة ألف تسعمية خمسة وعشرين حمّل إهمال المالكين مسؤولية الانهيار والخسائر.",
+        "وده مهم لأن تفسير الحادثة مش مجرد المادة اتحركت بسرعة.",
+        "السؤال عن مسؤولية اللي بنى وشغل وتابع، وعن طريقة التعامل مع العلامات قبل الانهيار.",
+        "لكن برضه مش هنختصر ملفات طويلة في مشهد قاض بيخبط بمطرقة وكلام مخترع.",
+        "اللي عندنا خلاصة موثقة للنتيجة، ونقدر نحكيها بوضوح من غير ما نضيف حوارا أو دافعا نفسيا لشخص ما عندناش دليلا عليه."
+      ],
+      "screen": "**بعدها جه سؤال المسؤولية**",
+      "visual": "ملف بعنوان تحقيق ومسؤولية و1925، لا توقيع أو حكم مصور مزعوم.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "القواعد وراها حكايات",
+      "a": "3:23",
+      "z": "4:06",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "حكومة ماساتشوستس بتربط الكارثة ببداية تنظيم خزانات كبيرة فوق الأرض بتخزن سوائل غير المية.",
+        "ودي طريقة مفيدة نبص بيها للرقابة: مش مجرد ورق بيبطئ الشغل، لكن محاولة تمنع إن ضررا سبق وحصل يتكرر.",
+        "ده ما يعنيش إن كل قاعدة بناء في العالم بدأت من الحادثة دي، ولا إن وجود رخصة وحده يضمن الأمان للأبد.",
+        "المعنى إن سلامة المنشآت محتاجة فحصا ومسؤولية، وإن تجاهل المشكلة مش حل اقتصادي سليم لمجرد إن تكلفة الإصلاح ظاهرة قدامك وتكلفة الفشل لسه ما ظهرتش.",
+        "أسوأ وقت تكتشف فيه قيمة المراجعة هو بعد ما تستحيل المراجعة إلى إنقاذ."
+      ],
+      "screen": "**القواعد وراها حكايات**",
+      "visual": "فحص وصيانة ومسؤولية كأيقونات، دون تقديم نصائح هندسية خاصة لخزان فعلي.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "قفلة",
+      "a": "4:06",
+      "z": "4:47",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "حكاية فيضان الدبس غريبة في مادتها، لكن درسها مش غريب: العلامة اللي بنتعود عليها ممكن تفضل علامة خطر، حتى لو شفناها كل يوم وما حصلش شيء لحد دلوقتي.",
+        "التاريخ هنا مش عشان نخاف من أي خزان، لكن عشان نفتكر إن الحجم والمسؤولية والاختبار أهم من انطباعنا عن الشيء.",
+        "وبدل ما يبقى السؤال بعد كل كارثة مين كان يتوقع، نقدر نسأل قبلها: إيه اللي قدامنا ومحتاج يتفحص بدل ما نتعود عليه؟",
+        "احترامنا للي فقدوا حياتهم يبدأ إننا نحكي بدقة، ونفهم ليه الوقاية شغل حقيقي.",
+        "أنا جوكر، ودي كانت حكاية من سطرين."
+      ],
+      "screen": "**قفلة**",
+      "visual": "العودة لنقطة التسرب الصغيرة، ثم كلمة: ما تتعودش على التحذير، والشعار الأصلي.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    }
+  ],
+  "prompt_en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.\n\nHOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.\n\nOpen with an industrial tank and a restrained leak motif. No comedy, food imagery, bodies, drowning simulation or sensational wave spectacle.\n\nEstablish industrial storage and surrounding neighborhood context. Use a conceptual tank section, not engineering plans or a buildable structural model.\n\nShow documented recurring leak concerns as anonymous note cards, without invented witness quotations or asserting that every leak predicts this exact failure.\n\nUse a respectful static casualty card and non-graphic aftermath symbols. No victim reenactments, action sequence or generated historical photographs.\n\nMark the documented 1925 finding with a neutral case-file graphic. Do not fabricate courtroom dialogue, documents or individual motives.\n\nConnect the event to documented storage-tank oversight in Massachusetts. Avoid claiming all modern engineering regulation originated with this one disaster.\n\nReturn to the small warning sign rather than replaying destruction. End with a restrained safety message and the unchanged Satreen logo.\n\nSTYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.\n\nSTORY-SPECIFIC FACT CHECK: Handle a fatal industrial disaster respectfully. No comic framing, victim reenactment, drowning visuals or sensational wave-speed claim. Do not derive all building regulation from this single event.",
+  "prompt_parts": [
+    {
+      "title": "المقاس وخطة التنفيذ",
+      "cat": "tech",
+      "en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.",
+      "tr": "فيديو عرضي، حوالي خمس دقائق. التسجيل البشري يحدد المدة والتزامن. اعرض الستوريبورد أولا.",
+      "why": "الأزمنة المكتوبة تقديرية وليست قياس تسجيل."
+    },
+    {
+      "title": "الخطاف",
+      "cat": "key",
+      "en": "HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.",
+      "tr": "ابدأ بسؤال المشهد الأول، واكشف اسم الموضوع عند ذكره في الصوت، لا بكارت عنوان مبكر.",
+      "why": "نحافظ على فضول المشاهد من غير تأخير مصطنع."
+    },
+    {
+      "title": "المشهد 1: مش كل فيضان مية",
+      "cat": "vis",
+      "en": "Open with an industrial tank and a restrained leak motif. No comedy, food imagery, bodies, drowning simulation or sensational wave spectacle.",
+      "tr": "خزان بعيد وخط تسرب صغير، مع تنبيه: حكاية كارثة تاريخية، بلا مشاهد قاسية.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 2: الخزان كان جزءا من صناعة",
+      "cat": "vis",
+      "en": "Establish industrial storage and surrounding neighborhood context. Use a conceptual tank section, not engineering plans or a buildable structural model.",
+      "tr": "قطاع عام للخزان ومحيطه، دون أرقام أبعاد أو نموذج إنشائي يصلح للتنفيذ.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 3: التحذير اللي كان ظاهر",
+      "cat": "vis",
+      "en": "Show documented recurring leak concerns as anonymous note cards, without invented witness quotations or asserting that every leak predicts this exact failure.",
+      "tr": "نقاط تسرب رمزية تتحول إلى بطاقات ملاحظات، من غير اقتباسات شكاوى مزيفة.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 4: خمستاشر يناير",
+      "cat": "vis",
+      "en": "Use a respectful static casualty card and non-graphic aftermath symbols. No victim reenactments, action sequence or generated historical photographs.",
+      "tr": "تاريخ وبطاقة أرقام هادئة، ثم حطام هندسي رمزي بلا بشر أو حيوانات متأذية.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 5: بعدها جه سؤال المسؤولية",
+      "cat": "vis",
+      "en": "Mark the documented 1925 finding with a neutral case-file graphic. Do not fabricate courtroom dialogue, documents or individual motives.",
+      "tr": "ملف بعنوان تحقيق ومسؤولية و1925، لا توقيع أو حكم مصور مزعوم.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 6: القواعد وراها حكايات",
+      "cat": "vis",
+      "en": "Connect the event to documented storage-tank oversight in Massachusetts. Avoid claiming all modern engineering regulation originated with this one disaster.",
+      "tr": "فحص وصيانة ومسؤولية كأيقونات، دون تقديم نصائح هندسية خاصة لخزان فعلي.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 7: قفلة",
+      "cat": "vis",
+      "en": "Return to the small warning sign rather than replaying destruction. End with a restrained safety message and the unchanged Satreen logo.",
+      "tr": "العودة لنقطة التسرب الصغيرة، ثم كلمة: ما تتعودش على التحذير، والشعار الأصلي.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "الستايل والصوت والختام",
+      "cat": "style",
+      "en": "STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.",
+      "tr": "كحلي وأبيض وبرتقالي، كلمات عربية RTL متزامنة مع تسجيل جوكر فقط، وشعار الأصل كما هو. لا موسيقى ولا مؤثرات ولا أصوات مولدة. التسليم فيديو وكود وترجمة بعد مراجعة الصورة.",
+      "why": "هذه مواصفات إنتاج مقترحة، لا فيديو منفذ."
+    },
+    {
+      "title": "حدود الحقائق",
+      "cat": "rule",
+      "en": "STORY-SPECIFIC FACT CHECK: Handle a fatal industrial disaster respectfully. No comic framing, victim reenactment, drowning visuals or sensational wave-speed claim. Do not derive all building regulation from this single event.",
+      "tr": "تقديم حساس بلا صور ضحايا أو محاكاة غرق. لا نحول الدبس إلى نكتة أو طعام صالح في الشارع. لا سرعة موجة أو تفسير حراري كمي غير لازم، ولا نعمم أن كل قواعد البناء نشأت من هذه الحادثة وحدها.",
+      "why": "لا نضحي بالدقة لصالح لقطة أجمل."
+    }
+  ],
+  "facts": [
+    {
+      "t": "City of Boston Archives: 15 يناير 1919، الخزان الصناعي، تاريخ التسرب، الانهيار، الضحايا، والقرار القضائي 1925.",
+      "src": "https://www.boston.gov/news/100-years-ago-today-molasses-crashes-through-bostons-north-end"
+    },
+    {
+      "t": "Massachusetts government: أثر الكارثة في تنظيم الخزانات ومعلومة 21 وفاة و150 مصابا.",
+      "src": "https://www.mass.gov/info-details/aboveground-storage-tanks-asts"
+    }
+  ],
+  "banned": [
+    "تقديم حساس بلا صور ضحايا أو محاكاة غرق. لا نحول الدبس إلى نكتة أو طعام صالح في الشارع. لا سرعة موجة أو تفسير حراري كمي غير لازم، ولا نعمم أن كل قواعد البناء نشأت من هذه الحادثة وحدها.",
+    "لا حوارات تاريخية مخترعة، ولا أصوات مولدة أو موسيقى أو مؤثرات."
+  ],
+  "production_note": "مسودة للمراجعة بصوت الملك جوكر. 622 كلمة منطوقة؛ حوالي 4.3 إلى 5.0 دقيقة قبل وقفات الأداء. أزمنة المشاهد تقديرية عند 130 كلمة في الدقيقة. لا صوت أو فيديو منفذ ضمن الصفحة.",
+  "quiz": {
+    "q": "وجود تسرب متكرر قبل كارثة بوسطن يذكرنا بإيه؟",
+    "options": [
+      "الاعتياد دليل أمان",
+      "العلامة تحتاج فحصا لا تجاهلا",
+      "كل خزان هينهار بنفس الطريقة"
+    ],
+    "correct": 1,
+    "explain": "الرسالة هي جدية المتابعة، لا تشخيص كل منشأة من فيديو."
+  },
+  "siblings": {
+    "prev": "underground-steam",
+    "next": "svalbard-backup"
+  }
+}

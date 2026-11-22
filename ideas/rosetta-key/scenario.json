@@ -1,0 +1,242 @@
+{
+  "slug": "rosetta-key",
+  "n": "جديد",
+  "title": "حجر مكسور فتح كلام مقفول",
+  "hook": "حجر رشيد: نفس المعنى بثلاث كتابات",
+  "duration_ar": "حوالي 5 دقائق، حسب التسجيل",
+  "scenes": [
+    {
+      "name": "نص مش مفهوم",
+      "a": "0:00",
+      "z": "0:39",
+      "icon": "🌍",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "لو لقيت رسالة قديمة ومش عارف تقراها، ممكن تفضل قدامك سنين من غير ما تقولك حاجة.",
+        "طب لو الرسالة نفسها مكتوبة جنبها بطريقة تانية أنت فاهمها؟",
+        "هنا أنت ما لقيتش ترجمة وخلاص، أنت لقيت فرصة تمسك طرف خيط.",
+        "من حجر مكسور، عليه سطور تبدو بعيدة عن بعض، اتفتح باب لفهم كلام مصري قديم كان مقفولا قدام الباحثين.",
+        "ده حجر رشيد.",
+        "والمفاجأة إن النص اللي عليه مش وصية سرية ولا خريطة كنز.",
+        "ده مرسوم رسمي، وأهميته الكبيرة جات من تكراره، مش من غرابة حكايته وحدها."
+      ],
+      "screen": "**نص مش مفهوم**",
+      "visual": "ثلاث مساحات كتابة، واحدة مفهومة رمزيا واثنتان غامضتان. لا تعرض رموزا مختلقة كنقش أصلي.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "إيه اللي مكتوب؟",
+      "a": "0:39",
+      "z": "1:21",
+      "icon": "🌍",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "النقش يرجع لسنة مية ستة وتسعين قبل الميلاد، في عهد بطليموس الخامس.",
+        "وهو جزء من مرسوم أصدره مجلس كهنة.",
+        "يعني غرضه الأصلي كان يعلن كلاما رسميا في زمنه، مش يساعد ناس بعد آلاف السنين يفكوا طريقة الكتابة.",
+        "والحجر اللي نعرفه مش اللوحة كاملة؛ ده الجزء اللي فضل من لوحة أكبر.",
+        "دي نقطة بتغير الصورة: الباحث قدامه شيء ناقص، وبعض السطور مش موجودة كاملة، ومع ذلك الموجود فيه قيمة ضخمة.",
+        "مش لازم الأثر يرجع سليم مية في المية عشان يقدر يحكي، لكن لازم نفهم إيه اللي موجود وإيه اللي ناقص قبل التفسير."
+      ],
+      "screen": "**إيه اللي مكتوب؟**",
+      "visual": "شكل اللوحة الناقصة بلون مصمت، والجزء المفقود بإطار منقط. التاريخ 196 قبل الميلاد.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "ثلاث كتابات... مش ثلاث لغات",
+      "a": "1:21",
+      "z": "1:59",
+      "icon": "🌍",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "على الحجر ثلاث طرق للكتابة: الهيروغليفية، والديموطيقية، واليونانية القديمة.",
+        "لكن هنا الفخ اللي بيتكرر: مش معنى ثلاث كتابات إننا قدام ثلاث لغات مختلفة.",
+        "الهيروغليفية والديموطيقية طريقتان لكتابة المصرية، ومعاهما اللغة اليونانية.",
+        "واليونانية كانت معروفة للباحثين، فبقت نقطة مقارنة مع النصوص التانية.",
+        "تخيل عندك نسختان من نفس الخبر، واحدة تقدر تقراها والتانية لأ.",
+        "ده يساعدك تتوقع إن أسماء وأفكارا معينة هتظهر في الاتنين.",
+        "لكنه مش بيقولك تلقائيا كل علامة معناها إيه، ولا بيحول فك الكتابة لمسألة مطابقة صور ببعضها من غير فهم اللغة."
+      ],
+      "screen": "**ثلاث كتابات... مش ثلاث لغات**",
+      "visual": "فرعان تحت المصرية، وفرع يوناني مستقل. بطاقة: لغتان، ثلاث كتابات.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "من رشيد لأسئلة جديدة",
+      "a": "1:59",
+      "z": "2:39",
+      "icon": "🌍",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "الحجر اتعثر عليه في منطقة رشيد سنة ألف سبعمية تسعة وتسعين، أثناء وجود الحملة الفرنسية في مصر.",
+        "تفاصيل الاكتشاف الدقيقة فيها روايات، فمش هنخترع لقطة جندي بيقول جملة تاريخية ما نعرفهاش.",
+        "المهم لحكايتنا إن النص وصل للباحثين، وبدأ شغل المقارنة.",
+        "توماس يونج كان من اللي بينوا إن بعض العلامات بتكتب أصوات اسم ملكي، اسم بطليموس.",
+        "الاسم هنا مش تفصيلة جانبية؛ الاسم اللي تتوقع وجوده في النص المعروف ممكن يديك مدخلا لجزء من النص غير المقروء.",
+        "ومع كل خطوة، بتتحول العلامة من شكل غامض لاحتمال لغوي قابل للفحص."
+      ],
+      "screen": "**من رشيد لأسئلة جديدة**",
+      "visual": "خريطة مبسطة لرشيد وسنة 1799، ثم اسم بطليموس مكتوب كنص حديث، لا فك شفرة حرفي مزعوم.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "المفتاح مش في حجر واحد",
+      "a": "2:39",
+      "z": "3:21",
+      "icon": "🌍",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "وبعد كده جه شغل جان فرانسوا شامبليون، اللي أعلن خطوة مهمة في فك الكتابة سنة ألف تمنمية اتنين وعشرين.",
+        "لكنه ما كانش قاعد قدام الحجر وحده وكأن العالم كله مختف.",
+        "تحليله شمل الحجر ونصوصا تانية، ومعرفته باللغة القبطية ساعدته في فهم المصرية القديمة.",
+        "ومع اتساع الفهم، بقى واضح إن العلامات مش مجرد صور معناها الشيء المرسوم بس؛ فيه دور للأصوات.",
+        "وده فرق ضخم بين إنك تبص على طائر فتقول أكيد المقصود طائر، وبين إن العلامة تدخل في كتابة كلام.",
+        "التشبيه ده لتقريب الفكرة، مش قاعدة واحدة نفسر بيها كل علامة في النظام."
+      ],
+      "screen": "**المفتاح مش في حجر واحد**",
+      "visual": "الحجر مع بطاقات نصوص أخرى والقبطية، تتصل بباب قراءة. 1822.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "أثر عادي في وقته... مفتاح بعده",
+      "a": "3:21",
+      "z": "4:00",
+      "icon": "🌍",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "الجميل إن الحجر ما اتعملش عشان يبقى لغزا مشهورا.",
+        "تكرار المرسوم كان يخدم غرضه وقتها، وبعد زمن طويل نفس التكرار بقى مفيدا لفهم الماضي.",
+        "وكمان حجر رشيد مش النسخة الوحيدة المعروفة من المرسوم؛ فيه نسخ قريبة منه، ونصوص مشابهة ساعدت في استكمال الصورة.",
+        "ده يخلينا نبطل نحصر المعرفة في لقطة بطل واحد وحجر واحد.",
+        "الأثر مهم جدا، لكن أهميته بتكبر لما يتحط جنب آثار ولغات ومحاولات تانية.",
+        "كل قطعة بتساعدنا نختبر تفسيرنا، بدل ما نعامل أول إجابة شكلها معقول كأنها آخر إجابة ممكنة."
+      ],
+      "screen": "**أثر عادي في وقته... مفتاح بعده**",
+      "visual": "عدة ألواح رمزية من غير ادعاء عدد كامل أو أماكن معاصرة. عبارة: المقارنة تفتح المعنى.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "قفلة",
+      "a": "4:00",
+      "z": "4:39",
+      "icon": "🌍",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "حكاية حجر رشيد بتفكرنا إن السؤال مش دايما إزاي نلاقي معلومة جديدة.",
+        "أحيانا المعلومة موجودة قدامنا، لكن ناقصنا المفتاح اللي يخلينا نقراها.",
+        "وبتفكرنا كمان إن تكرار الشيء ممكن يكون هو اللي ينقذه من النسيان: نفس المعنى، بأكتر من كتابة، عدى قرونا لحد ما المقارنة بقت ممكنة.",
+        "المرة الجاية لما تشوف نقشا قديما، افتكر إن بين رؤيته وفهمه رحلة شغل طويلة، مش مجرد ترجمة سريعة.",
+        "ولو لقيت رسالة من الماضي، تحب تقرا فيها عن الملوك، ولا عن تفاصيل يوم عادي؟",
+        "أنا جوكر، ودي كانت حكاية من سطرين."
+      ],
+      "screen": "**قفلة**",
+      "visual": "ثلاث مساحات الكتابة تتحول إلى باب مفتوح، ثم الشعار الأصلي كما هو.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    }
+  ],
+  "prompt_en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.\n\nHOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.\n\nOpen on an unreadable message; reveal three text bands and the broken stone only at the spoken reveal. Use clearly symbolic lettering, never fake hieroglyphs presented as transcription.\n\nShow the surviving fragment within a dashed hypothetical full stela outline; clearly separate reconstruction from surviving material. Date the decree to 196 BCE.\n\nBuild a tree with Egyptian branching into hieroglyphic and demotic scripts, alongside Greek. Keep the distinction between languages and scripts explicit.\n\nLocate Rashid schematically and mark 1799. Show a modern name-label comparison as a teaching analogy, not an invented decoding worksheet or historical quotation.\n\nConnect multiple texts and Coptic knowledge to the 1822 breakthrough. Do not animate a one-to-one alphabet that falsely explains the entire writing system.\n\nExpand from one fragment to a small network of other decrees and scholarship; avoid claiming an exhaustive surviving-object count.\n\nResolve the three-band motif into an opening doorway; end on the exact supplied Satreen logo asset, unchanged.\n\nSTYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.\n\nSTORY-SPECIFIC FACT CHECK: Do not call the three scripts three languages. Champollion used other texts and Coptic knowledge; no single-stone instant solution. Discovery details are not precisely reenacted.",
+  "prompt_parts": [
+    {
+      "title": "المقاس وخطة التنفيذ",
+      "cat": "tech",
+      "en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.",
+      "tr": "فيديو عرضي، حوالي خمس دقائق. التسجيل البشري يحدد المدة والتزامن. اعرض الستوريبورد أولا.",
+      "why": "الأزمنة المكتوبة تقديرية وليست قياس تسجيل."
+    },
+    {
+      "title": "الخطاف",
+      "cat": "key",
+      "en": "HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.",
+      "tr": "ابدأ بسؤال المشهد الأول، واكشف اسم الموضوع عند ذكره في الصوت، لا بكارت عنوان مبكر.",
+      "why": "نحافظ على فضول المشاهد من غير تأخير مصطنع."
+    },
+    {
+      "title": "المشهد 1: نص مش مفهوم",
+      "cat": "vis",
+      "en": "Open on an unreadable message; reveal three text bands and the broken stone only at the spoken reveal. Use clearly symbolic lettering, never fake hieroglyphs presented as transcription.",
+      "tr": "ثلاث مساحات كتابة، واحدة مفهومة رمزيا واثنتان غامضتان. لا تعرض رموزا مختلقة كنقش أصلي.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 2: إيه اللي مكتوب؟",
+      "cat": "vis",
+      "en": "Show the surviving fragment within a dashed hypothetical full stela outline; clearly separate reconstruction from surviving material. Date the decree to 196 BCE.",
+      "tr": "شكل اللوحة الناقصة بلون مصمت، والجزء المفقود بإطار منقط. التاريخ 196 قبل الميلاد.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 3: ثلاث كتابات... مش ثلاث لغات",
+      "cat": "vis",
+      "en": "Build a tree with Egyptian branching into hieroglyphic and demotic scripts, alongside Greek. Keep the distinction between languages and scripts explicit.",
+      "tr": "فرعان تحت المصرية، وفرع يوناني مستقل. بطاقة: لغتان، ثلاث كتابات.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 4: من رشيد لأسئلة جديدة",
+      "cat": "vis",
+      "en": "Locate Rashid schematically and mark 1799. Show a modern name-label comparison as a teaching analogy, not an invented decoding worksheet or historical quotation.",
+      "tr": "خريطة مبسطة لرشيد وسنة 1799، ثم اسم بطليموس مكتوب كنص حديث، لا فك شفرة حرفي مزعوم.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 5: المفتاح مش في حجر واحد",
+      "cat": "vis",
+      "en": "Connect multiple texts and Coptic knowledge to the 1822 breakthrough. Do not animate a one-to-one alphabet that falsely explains the entire writing system.",
+      "tr": "الحجر مع بطاقات نصوص أخرى والقبطية، تتصل بباب قراءة. 1822.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 6: أثر عادي في وقته... مفتاح بعده",
+      "cat": "vis",
+      "en": "Expand from one fragment to a small network of other decrees and scholarship; avoid claiming an exhaustive surviving-object count.",
+      "tr": "عدة ألواح رمزية من غير ادعاء عدد كامل أو أماكن معاصرة. عبارة: المقارنة تفتح المعنى.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 7: قفلة",
+      "cat": "vis",
+      "en": "Resolve the three-band motif into an opening doorway; end on the exact supplied Satreen logo asset, unchanged.",
+      "tr": "ثلاث مساحات الكتابة تتحول إلى باب مفتوح، ثم الشعار الأصلي كما هو.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "الستايل والصوت والختام",
+      "cat": "style",
+      "en": "STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.",
+      "tr": "كحلي وأبيض وبرتقالي، كلمات عربية RTL متزامنة مع تسجيل جوكر فقط، وشعار الأصل كما هو. لا موسيقى ولا مؤثرات ولا أصوات مولدة. التسليم فيديو وكود وترجمة بعد مراجعة الصورة.",
+      "why": "هذه مواصفات إنتاج مقترحة، لا فيديو منفذ."
+    },
+    {
+      "title": "حدود الحقائق",
+      "cat": "rule",
+      "en": "STORY-SPECIFIC FACT CHECK: Do not call the three scripts three languages. Champollion used other texts and Coptic knowledge; no single-stone instant solution. Discovery details are not precisely reenacted.",
+      "tr": "لا تقل ثلاث لغات، ولا إن شامبليون فك كل شيء من الحجر وحده في لحظة. رواية لحظة العثور الدقيقة غير محسومة، لذلك نكتفي بالسنة والمكان العام. لا نصدر حكما قانونيا معاصرا عن ملكية الأثر.",
+      "why": "لا نضحي بالدقة لصالح لقطة أجمل."
+    }
+  ],
+  "facts": [
+    {
+      "t": "British Museum: أصل المرسوم، تاريخ 196 قبل الميلاد، ثلاث كتابات للغتين، العثور سنة 1799، ودور يونج وشامبليون والقبطية ونصوص أخرى.",
+      "src": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone"
+    }
+  ],
+  "banned": [
+    "لا تقل ثلاث لغات، ولا إن شامبليون فك كل شيء من الحجر وحده في لحظة. رواية لحظة العثور الدقيقة غير محسومة، لذلك نكتفي بالسنة والمكان العام. لا نصدر حكما قانونيا معاصرا عن ملكية الأثر.",
+    "لا حوارات تاريخية مخترعة، ولا أصوات مولدة أو موسيقى أو مؤثرات."
+  ],
+  "production_note": "مسودة للمراجعة بصوت الملك جوكر. 605 كلمة منطوقة؛ حوالي 4.2 إلى 4.8 دقيقة قبل وقفات الأداء. أزمنة المشاهد تقديرية عند 130 كلمة في الدقيقة. لا صوت أو فيديو منفذ ضمن الصفحة.",
+  "quiz": {
+    "q": "على حجر رشيد... عندنا إيه؟",
+    "options": [
+      "ثلاث لغات مختلفة",
+      "لغتان وثلاث كتابات",
+      "كتابة واحدة متكررة"
+    ],
+    "correct": 1,
+    "explain": "الهيروغليفية والديموطيقية كتابتان للمصرية، ومعهما اليونانية."
+  },
+  "siblings": {
+    "prev": null,
+    "next": "antikythera-gears"
+  }
+}

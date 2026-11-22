@@ -1,0 +1,25 @@
+FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.
+
+HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.
+
+Open with an industrial tank and a restrained leak motif. No comedy, food imagery, bodies, drowning simulation or sensational wave spectacle.
+
+Establish industrial storage and surrounding neighborhood context. Use a conceptual tank section, not engineering plans or a buildable structural model.
+
+Show documented recurring leak concerns as anonymous note cards, without invented witness quotations or asserting that every leak predicts this exact failure.
+
+Use a respectful static casualty card and non-graphic aftermath symbols. No victim reenactments, action sequence or generated historical photographs.
+
+Mark the documented 1925 finding with a neutral case-file graphic. Do not fabricate courtroom dialogue, documents or individual motives.
+
+Connect the event to documented storage-tank oversight in Massachusetts. Avoid claiming all modern engineering regulation originated with this one disaster.
+
+Return to the small warning sign rather than replaying destruction. End with a restrained safety message and the unchanged Satreen logo.
+
+STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.
+AUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.
+FACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.
+END CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.
+DELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.
+
+STORY-SPECIFIC FACT CHECK: Handle a fatal industrial disaster respectfully. No comic framing, victim reenactment, drowning visuals or sensational wave-speed claim. Do not derive all building regulation from this single event.

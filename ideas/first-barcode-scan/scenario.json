@@ -1,0 +1,242 @@
+{
+  "slug": "first-barcode-scan",
+  "n": "جديد",
+  "title": "علبة لبان عدّت على خط البداية",
+  "hook": "أول مسح تجاري شهير لباركود UPC",
+  "duration_ar": "حوالي 5 دقائق، حسب التسجيل",
+  "scenes": [
+    {
+      "name": "حاجة صغيرة في يوم كبير",
+      "a": "0:00",
+      "z": "0:43",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "ممكن أول ما تسمع عن حدث غير شكل التجارة تتخيل صفقة ضخمة، أو جهازا حجمه أوضة.",
+        "لكن واحدة من العلامات المشهورة في الحكاية كانت علبة لبان.",
+        "في محل في ولاية أوهايو، العلبة عدت على قارئ، والكود اللي عليها اتقرا عند الكاشير.",
+        "ده كان في ستة وعشرين يونيو سنة ألف تسعمية أربعة وسبعين، وبنتكلم عن بداية شهيرة لمسح باركود يو بي سي في متجر.",
+        "مش لأن اللبان نفسه كان اختراعا جديدا، لكن لأن الطريقة اللي المنتج اتعرف بيها قدام النظام كانت بداية مشهد يومي إحنا بقى عندنا عادي جدا لدرجة إننا ما بنسألش عنه."
+      ],
+      "screen": "**حاجة صغيرة في يوم كبير**",
+      "visual": "علبة لبان عامة بلا تقليد عبوة تجارية محددة، وخط قارئ صامت. لا مؤثر بيب.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "الكود مش اسم سرّي",
+      "a": "0:43",
+      "z": "1:24",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "الباركود الخطي شكله خطوط سوداء ومسافات بيضاء، لكنه مش زخرفة على ظهر المنتج.",
+        "هو طريقة جهاز يقدر يقرا بيها معرّفا.",
+        "والمعرّف ده يسمح لنظام المتجر يعرف المنتج المقصود، وبعدها يرجع للمعلومة المرتبطة بيه، زي السعر.",
+        "ودي نقطة بتتلخبط كتير: مش لازم السعر نفسه يبقى مكتوبا داخل الخطوط.",
+        "لو السعر اتغير في النظام، مش معنى كده إن كل عبوة لازم تتطبع من جديد.",
+        "إحنا بنبسط المبدأ هنا عشان نفهم وظيفة المعرّف؛ الرسمة اللي على الشاشة مش كود بيع حقيقي، ومش اختبار قارئ بيتم قدامك، لكنها شرح للعلاقة بين العلامة وقاعدة المعلومات."
+      ],
+      "screen": "**الكود مش اسم سرّي**",
+      "visual": "معرّف رمزي ينتقل إلى بطاقة منتج ثم سعر توضيحي مكتوب عليه مثال، بلا قيمة مالية حقيقية.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "ليه الاتفاق مهم؟",
+      "a": "1:24",
+      "z": "2:07",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "عشان الفكرة تشتغل على نطاق واسع، مش كفاية كل شركة ترسم خطوطا بطريقتها وتقول أنا كده جهزت.",
+        "فيه مصنع، وفيه طباعة عبوة، وفيه متجر، وقارئ، ونظام حسابات.",
+        "الأطراف دي محتاجة تفهم معرّف المنتج بطريقة متوافقة.",
+        "عشان كده التوحيد والمعايير جزء أساسي من الحكاية، حتى لو مش بيطلعوا في صورة الاختراع اللامعة.",
+        "مؤسسة جي إس وان بترجع خطوة مهمة في اتفاق قطاع تجارة الأغذية في أمريكا لسنة ألف تسعمية تلاتة وسبعين.",
+        "وبعدها بسنة جه مشهد المسح الشهير.",
+        "يعني الدقيقة اللي عند الكاشير كانت فوق شغل تنسيق واتفاق أوسع من جهاز واحد واقف على الترابيزة."
+      ],
+      "screen": "**ليه الاتفاق مهم؟**",
+      "visual": "1973 اتفاق ثم 1974 تطبيق. أربع بطاقات: منتج، طباعة، قارئ، نظام متجر.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "اليوم اللي له عنوان",
+      "a": "2:07",
+      "z": "2:48",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "بحسب جي إس وان يو إس، عملية المسح حصلت في سوبرماركت مارش في مدينة تروي بولاية أوهايو، والمنتج كان عبوة لبان ريجلي من عشر قطع.",
+        "التفاصيل دي بتدي الحدث مكانا وتاريخا، لكن ما ينفعش نخليها تطغى على الفكرة.",
+        "ما عندناش في الفيديو تسجيل للحظة ولا حوار موثق للكاشير، فمش هنخترع تصفيقا ولا جملة مؤثرة.",
+        "هنشوف إعادة تمثيل رسومية واضحة، تركز في الحركة اللي بقت مألوفة: منتج عليه رمز، يمر على قارئ، والنظام يتعرف عليه.",
+        "مشهد صغير في حجمه، لكن تكراره على مستوى متاجر ومنتجات هو اللي عمل الفرق."
+      ],
+      "screen": "**اليوم اللي له عنوان**",
+      "visual": "خريطة صغيرة لتروي أوهايو وتاريخ 26 يونيو 1974. لافتة: إعادة تصور رسومية.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "السر في اللي بعد القراءة",
+      "a": "2:48",
+      "z": "3:27",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "القارئ لوحده مش نهاية المهمة.",
+        "قراءة رقم صحيح لازم يتبعها إن النظام يربطه بالمنتج الصحيح والمعلومة المناسبة.",
+        "وده يورينا إن التكنولوجيا اليومية غالبا بتبقى سلسلة، مش صندوقا واحدا سحريا.",
+        "أنت تشوف الخطوط، لكن وراها طريقة تعريف واتفاق وتسجيل وتحديث للمعلومات.",
+        "ولو الربط غلط، شكل الكود المرتب مش هيصلحه من نفسه.",
+        "عشان كده ما ينفعش نستنتج من وجود باركود على شيء إن كل معلومة عنه صحيحة أو إننا عرفنا حكايته بالكامل.",
+        "الكود أداة في النظام، وفاعليته مرتبطة بجودة النظام اللي بيستخدمه، مش بس بشكل الخطوط المطبوعة."
+      ],
+      "screen": "**السر في اللي بعد القراءة**",
+      "visual": "الكود يتصل ببطاقة منتج مطابقة، ثم مثال منفصل غير مطابق عليه كلمة خطأ، بلا منتج حقيقي.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "بداية مش يوم اختراع كل شيء",
+      "a": "3:27",
+      "z": "4:09",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "والحكاية دي ما تقولش إن فكرة القراءة الآلية ظهرت فجأة في اليوم ده، أو إن كل نوع باركود في العالم له نفس البداية.",
+        "إحنا ماسكين لحظة محددة مشهورة في رحلة نظام يو بي سي داخل تجارة التجزئة.",
+        "اختصار التاريخ ساعات بيخلينا نخلط بين اختراع فكرة، واختيار معيار، وأول تطبيق تجاري مهم، وانتشارها بعدين.",
+        "دول ممكن يبقوا مراحل مختلفة، وكل مرحلة ليها ناس وشغل.",
+        "علبة اللبان بتدينا صورة سهلة نتذكر بيها الحدث، لكن لو وقفنا عند العلبة بس، هيفوتنا إن اللي وراها كان محاولة تخلي جهات كثيرة تقرا نفس العلامة بنفس المعنى."
+      ],
+      "screen": "**بداية مش يوم اختراع كل شيء**",
+      "visual": "أربع مراحل متمايزة: فكرة، معيار، تطبيق، انتشار، من غير إضافة تواريخ غير موثقة.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "قفلة",
+      "a": "4:09",
+      "z": "4:48",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "علبة لبان عادية خلتنا نبص لحاجة صغيرة بنعدي عليها كل يوم: خطوط بتربط جسما حقيقيا بمعلومة في نظام.",
+        "والاختراع اللي بينجح في حياتنا مش دايما هو اللي يطلب مننا ننتبه له؛ أحيانا هو اللي يندمج في الحركة لحد ما ننسى إنه كان يوما خطوة جديدة.",
+        "المرة الجاية وأنت واقف عند الكاشير، افتكر إن وراء الحركة السريعة اتفاقا كبيرا على معنى العلامات.",
+        "إيه أكتر تكنولوجيا صغيرة في يومك بقيت ما تلاحظهاش، مع إن غيابها هيعطل حاجات كتير؟",
+        "أنا جوكر، ودي كانت حكاية من سطرين."
+      ],
+      "screen": "**قفلة**",
+      "visual": "خطوط الكود تتحول إلى وصلات بين متجر ومنتج ومعلومة ثم الشعار.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    }
+  ],
+  "prompt_en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.\n\nHOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.\n\nOpen on a generic gum pack at checkout. Reveal the UPC scanning milestone without playing a scanner beep or claiming all barcode history began that day.\n\nSeparate encoded product identifier from store-database price lookup. Use labeled mock data, not a valid commercial barcode or real price claim.\n\nBuild an interoperability chain and distinguish the 1973 standardization milestone from the 1974 checkout scan. No fictional boardroom dialogue.\n\nPlace Troy, Ohio and 26 June 1974 on a schematic map/timeline. Illustrate the event without inventing a cashier identity, exact receipt or spoken exchange.\n\nShow correct identifier-to-record matching and an explicitly hypothetical mismatch. Do not suggest a barcode is a universal certificate of authenticity or truth.\n\nDistinguish invention, standard agreement, retail deployment and later adoption. Keep the first-scan claim bounded to the stated UPC retail context.\n\nResolve barcode lines into a network connecting object and information. No music, scanner sound or stock checkout footage; end on the original logo.\n\nSTYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.\n\nSTORY-SPECIFIC FACT CHECK: Bound the milestone to UPC scanning at retail checkout in 1974. Price is looked up using an identifier, not necessarily stored in the bars. The invention and standardization predate this scan.",
+  "prompt_parts": [
+    {
+      "title": "المقاس وخطة التنفيذ",
+      "cat": "tech",
+      "en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.",
+      "tr": "فيديو عرضي، حوالي خمس دقائق. التسجيل البشري يحدد المدة والتزامن. اعرض الستوريبورد أولا.",
+      "why": "الأزمنة المكتوبة تقديرية وليست قياس تسجيل."
+    },
+    {
+      "title": "الخطاف",
+      "cat": "key",
+      "en": "HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.",
+      "tr": "ابدأ بسؤال المشهد الأول، واكشف اسم الموضوع عند ذكره في الصوت، لا بكارت عنوان مبكر.",
+      "why": "نحافظ على فضول المشاهد من غير تأخير مصطنع."
+    },
+    {
+      "title": "المشهد 1: حاجة صغيرة في يوم كبير",
+      "cat": "vis",
+      "en": "Open on a generic gum pack at checkout. Reveal the UPC scanning milestone without playing a scanner beep or claiming all barcode history began that day.",
+      "tr": "علبة لبان عامة بلا تقليد عبوة تجارية محددة، وخط قارئ صامت. لا مؤثر بيب.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 2: الكود مش اسم سرّي",
+      "cat": "vis",
+      "en": "Separate encoded product identifier from store-database price lookup. Use labeled mock data, not a valid commercial barcode or real price claim.",
+      "tr": "معرّف رمزي ينتقل إلى بطاقة منتج ثم سعر توضيحي مكتوب عليه مثال، بلا قيمة مالية حقيقية.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 3: ليه الاتفاق مهم؟",
+      "cat": "vis",
+      "en": "Build an interoperability chain and distinguish the 1973 standardization milestone from the 1974 checkout scan. No fictional boardroom dialogue.",
+      "tr": "1973 اتفاق ثم 1974 تطبيق. أربع بطاقات: منتج، طباعة، قارئ، نظام متجر.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 4: اليوم اللي له عنوان",
+      "cat": "vis",
+      "en": "Place Troy, Ohio and 26 June 1974 on a schematic map/timeline. Illustrate the event without inventing a cashier identity, exact receipt or spoken exchange.",
+      "tr": "خريطة صغيرة لتروي أوهايو وتاريخ 26 يونيو 1974. لافتة: إعادة تصور رسومية.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 5: السر في اللي بعد القراءة",
+      "cat": "vis",
+      "en": "Show correct identifier-to-record matching and an explicitly hypothetical mismatch. Do not suggest a barcode is a universal certificate of authenticity or truth.",
+      "tr": "الكود يتصل ببطاقة منتج مطابقة، ثم مثال منفصل غير مطابق عليه كلمة خطأ، بلا منتج حقيقي.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 6: بداية مش يوم اختراع كل شيء",
+      "cat": "vis",
+      "en": "Distinguish invention, standard agreement, retail deployment and later adoption. Keep the first-scan claim bounded to the stated UPC retail context.",
+      "tr": "أربع مراحل متمايزة: فكرة، معيار، تطبيق، انتشار، من غير إضافة تواريخ غير موثقة.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 7: قفلة",
+      "cat": "vis",
+      "en": "Resolve barcode lines into a network connecting object and information. No music, scanner sound or stock checkout footage; end on the original logo.",
+      "tr": "خطوط الكود تتحول إلى وصلات بين متجر ومنتج ومعلومة ثم الشعار.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "الستايل والصوت والختام",
+      "cat": "style",
+      "en": "STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.",
+      "tr": "كحلي وأبيض وبرتقالي، كلمات عربية RTL متزامنة مع تسجيل جوكر فقط، وشعار الأصل كما هو. لا موسيقى ولا مؤثرات ولا أصوات مولدة. التسليم فيديو وكود وترجمة بعد مراجعة الصورة.",
+      "why": "هذه مواصفات إنتاج مقترحة، لا فيديو منفذ."
+    },
+    {
+      "title": "حدود الحقائق",
+      "cat": "rule",
+      "en": "STORY-SPECIFIC FACT CHECK: Bound the milestone to UPC scanning at retail checkout in 1974. Price is looked up using an identifier, not necessarily stored in the bars. The invention and standardization predate this scan.",
+      "tr": "لا تزعم أن الخطوط تحمل السعر دائما أو أن الباركود اختُرع يوم المسح الأول. نصف الحدث كمسح UPC عند صندوق متجر، لا أول استخدام لكل رموز القراءة في التاريخ.",
+      "why": "لا نضحي بالدقة لصالح لقطة أجمل."
+    }
+  ],
+  "facts": [
+    {
+      "t": "GS1 US: 26 يونيو 1974، علبة Wrigley من عشر قطع، Marsh في Troy بولاية Ohio، دور UPC في تعريف المنتج والبحث عن السعر.",
+      "src": "https://www.gs1us.org/industries-and-insights/media-center/press-releases/gs1-us-celebrates-50-year-barcode-scanniversary"
+    },
+    {
+      "t": "GS1: توحيد المعيار 1973 وتاريخ عملية المسح 1974.",
+      "src": "https://www.gs1.org/about/50YearsOfGS1"
+    }
+  ],
+  "banned": [
+    "لا تزعم أن الخطوط تحمل السعر دائما أو أن الباركود اختُرع يوم المسح الأول. نصف الحدث كمسح UPC عند صندوق متجر، لا أول استخدام لكل رموز القراءة في التاريخ.",
+    "لا حوارات تاريخية مخترعة، ولا أصوات مولدة أو موسيقى أو مؤثرات."
+  ],
+  "production_note": "مسودة للمراجعة بصوت الملك جوكر. 623 كلمة منطوقة؛ حوالي 4.3 إلى 5.0 دقيقة قبل وقفات الأداء. أزمنة المشاهد تقديرية عند 130 كلمة في الدقيقة. لا صوت أو فيديو منفذ ضمن الصفحة.",
+  "quiz": {
+    "q": "باركود UPC في الشرح هنا يعرف إيه؟",
+    "options": [
+      "معرف منتج يرتبط بسجل",
+      "سعرا ثابتا لا يتغير أبدا",
+      "كل تاريخ العبوة تلقائيا"
+    ],
+    "correct": 0,
+    "explain": "النظام يستخدم المعرف للبحث عن معلومات مثل السعر."
+  },
+  "siblings": {
+    "prev": "qr-three-squares",
+    "next": "underground-steam"
+  }
+}

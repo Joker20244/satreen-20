@@ -1,0 +1,25 @@
+FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.
+
+HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.
+
+Open on a mountain-vault silhouette and reveal seed packets rather than treasure. No apocalypse montage or fictional security-system blueprint.
+
+Show crop diversity and a two-site backup relationship. Do not portray the vault as replacing active genebanks, farmers or plant-breeding work.
+
+Show cold storage conceptually and acknowledge maintenance needs. Avoid claims of permanent viability, total invulnerability or a self-sustaining magic freezer.
+
+Represent depositor ownership with generic matched institution-and-box icons. No open public seed shop, access credentials or false unrestricted withdrawal scene.
+
+Use a restrained geographic flow for ICARDA restoration in Lebanon and Morocco during 2015-2019. Do not fabricate war scenes or claim all original Syrian seeds were destroyed.
+
+Animate withdrawal, regeneration and redeposit. Distinguish seed samples, individual seeds and unique varieties; use no inflated universal inventory claim.
+
+Close on the two-location resilience motif and a seedling, never a promise that the vault alone can rebuild civilization. Preserve the original logo.
+
+STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.
+AUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.
+FACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.
+END CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.
+DELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.
+
+STORY-SPECIFIC FACT CHECK: This stores backup seed samples, not every plant or a self-growing civilization restart kit. Depositors retain ownership. No permanent viability or invulnerability claims; do not confuse samples with unique varieties.

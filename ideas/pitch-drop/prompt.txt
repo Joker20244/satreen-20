@@ -1,0 +1,25 @@
+FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.
+
+HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.
+
+Open on an apparently motionless droplet while a conceptual time scale expands. Any acceleration must be labeled illustrative time compression, not real-time footage.
+
+Use a historical timeline from 1927 setup to 1930 opening. Do not provide operational heating instructions or invite a home demonstration.
+
+Contrast brittle appearance with very slow viscous flow of this specific pitch sample. Explicitly avoid the old-window-glass-flow myth.
+
+Show the first-drop wait as an approximate eight-year interval, without inventing an exact fall timestamp or a real observation clip.
+
+Distinguish extension, contact and detachment. Date the 2014 report without calling first contact a fully observed complete separation.
+
+Show temperature as an influence on flow. Do not publish a live current drop count, next-drop date or invariant interval from stale descriptive text.
+
+Finish on an apparently still drop beside a long time axis. Avoid promising a new drop within this video; preserve the provided logo.
+
+STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.
+AUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.
+FACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.
+END CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.
+DELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.
+
+STORY-SPECIFIC FACT CHECK: Do not publish a live current drop count from stale webpage wording. Contact and detachment are different events. No window-glass-flow myth or home heating instructions.

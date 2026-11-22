@@ -1,0 +1,25 @@
+FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.
+
+HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.
+
+Open on a generic gum pack at checkout. Reveal the UPC scanning milestone without playing a scanner beep or claiming all barcode history began that day.
+
+Separate encoded product identifier from store-database price lookup. Use labeled mock data, not a valid commercial barcode or real price claim.
+
+Build an interoperability chain and distinguish the 1973 standardization milestone from the 1974 checkout scan. No fictional boardroom dialogue.
+
+Place Troy, Ohio and 26 June 1974 on a schematic map/timeline. Illustrate the event without inventing a cashier identity, exact receipt or spoken exchange.
+
+Show correct identifier-to-record matching and an explicitly hypothetical mismatch. Do not suggest a barcode is a universal certificate of authenticity or truth.
+
+Distinguish invention, standard agreement, retail deployment and later adoption. Keep the first-scan claim bounded to the stated UPC retail context.
+
+Resolve barcode lines into a network connecting object and information. No music, scanner sound or stock checkout footage; end on the original logo.
+
+STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.
+AUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.
+FACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.
+END CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.
+DELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.
+
+STORY-SPECIFIC FACT CHECK: Bound the milestone to UPC scanning at retail checkout in 1974. Price is looked up using an identifier, not necessarily stored in the bars. The invention and standardization predate this scan.

@@ -1,0 +1,243 @@
+{
+  "slug": "underground-steam",
+  "n": "جديد",
+  "title": "القطر اللي دخل تحت الزحمة",
+  "hook": "بداية مترو لندن كانت بالبخار",
+  "duration_ar": "حوالي 5 دقائق، حسب التسجيل",
+  "scenes": [
+    {
+      "name": "ننزل تحت الشارع؟",
+      "a": "0:00",
+      "z": "0:41",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "لو الشارع فوق الأرض مش مستحمل الزحمة، إيه رأيك ننزل بالقطر تحته؟",
+        "الفكرة دلوقتي مألوفة، لكن تخيل تقولها في مدينة في القرن التسعتاشر، وبعدين تضيف إن القطر نفسه هيشتغل بالبخار.",
+        "ده جزء من بداية مترو لندن.",
+        "مش أنفاق بالشكل اللي بنشوفه في كل خط حديث، ولا قطار كهربائي صامت من أول يوم.",
+        "حكاية المترو بدأت بحل لمشكلة حركة فوق الأرض، وفتحت في الوقت نفسه مشكلات جديدة تحتها.",
+        "ودي مفارقة المدن: أحيانا الحل الناجح مش إنه يلغي كل مشكلة مرة واحدة، لكنه يفتح طريقا مختلفا ويخلينا نتعلم نحسنه مع الوقت."
+      ],
+      "screen": "**ننزل تحت الشارع؟**",
+      "visual": "شارع رمزي مزدحم ثم قطاع تحت السطح، والقاطرة لا تظهر إلا بعد ذكر البخار.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "القطر جاب ناس... والناس زودت الحركة",
+      "a": "0:41",
+      "z": "1:22",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "السكك الحديدية سهلت الوصول للندن، لكنها كمان زودت الضغط على شوارعها.",
+        "الناس اللي بتنزل من المحطات الكبيرة لسه محتاجة تكمل لوجهتها جوه المدينة.",
+        "فبقى فيه سؤال عن الربط: إزاي نكمل الرحلة من غير ما كل الناس تتكدس فوق الأرض؟",
+        "متحف النقل في لندن بيشرح إن خط متروبوليتان اتصمم ليربط محطات رئيسية بمنطقة السيتي.",
+        "يعني المشروع مش مغامرة لمجرد إن تحت الأرض مكان غريب.",
+        "كان له احتياج حضري واضح.",
+        "والفرق مهم: الحل الجيد يبدأ من رحلة الناس الفعلية، مش من إننا نحب شكل التكنولوجيا وبعدين ندور على مشكلة نحطها فيها."
+      ],
+      "screen": "**القطر جاب ناس... والناس زودت الحركة**",
+      "visual": "محطات رئيسية كعقد عامة، وركاب رمزيون ينتقلون منها، بلا ادعاء خريطة مساحية دقيقة.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "يحفروا الشارع... وبعدين يغطوه",
+      "a": "1:22",
+      "z": "2:04",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "بدأ الشغل سنة ألف تمنمية وستين.",
+        "وجزء كبير من المسار اتعمل بطريقة اسمها الحفر والتغطية: يحفروا قطعا قريبا من سطح الشارع، ويحطوا السكة، وبعدها يغطوا المسار من فوق.",
+        "دي غير الصورة اللي ممكن تكون في دماغك عن آلة بتحفر نفقا عميقا من غير ما حد فوق يحس.",
+        "الشغل في الشارع نفسه معناه تعطيل واضطراب أثناء البناء.",
+        "فالحكاية مش إنهم اكتشفوا طبقة تحت المدينة ما حدش بيستخدمها وخلاص.",
+        "أي مشروع وسط مدينة عايشة لازم يتعامل مع اللي موجود فوقه وحواليه، وإنقاذ وقت الرحلة في المستقبل ممكن يسبقه وقت صعب في الحاضر."
+      ],
+      "screen": "**يحفروا الشارع... وبعدين يغطوه**",
+      "visual": "قطاع ثلاث مراحل: حفرة، سكة، سقف يعيد سطح الشارع. ليبل: شرح مبسط.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "يوم الافتتاح",
+      "a": "2:04",
+      "z": "2:44",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "في عشرة يناير سنة ألف تمنمية تلاتة وستين، افتتح أول جزء من متروبوليتان بين بادينجتون وفارينجدون.",
+        "بحسب متحف النقل، ده أول خط سكة حديد تحت الأرض في العالم.",
+        "التاريخ هنا بداية تشغيل، مش نهاية كل التطوير اللي نعرفه النهارده.",
+        "ولا شبكة لندن الحالية ظهرت كاملة في نفس اليوم.",
+        "الجزء الأول كان خطوة، وبعدها توسعات وخطوط ومراحل.",
+        "ساعات لما نشوف شبكة كبيرة على خريطة، بنتخيل إن صاحبها كان شايفها كلها قدامه من البداية.",
+        "لكن البنية اللي عايشين معاها غالبا ناتجة عن قرارات وإضافات وخلافات وتعديلات حصلت على مدد طويلة."
+      ],
+      "screen": "**يوم الافتتاح**",
+      "visual": "10 يناير 1863 ونقطتان فقط، لا خريطة شبكة لندن الحديثة باعتبارها الأصلية.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "البخار دخل معاهم",
+      "a": "2:44",
+      "z": "3:25",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "نجاح الفكرة ما لغاش إن تشغيل قاطرات بخارية في مكان تحت الأرض خلق عيبا واضحا: الدخان والبخار والأبخرة في المحطات والأنفاق.",
+        "المتحف بيذكر المشكلة دي باعتبارها جانب مهم من التجربة الأولى.",
+        "إحنا مش هنختلق يوميات راكب أو نزعم إن كل الناس حسوا نفس الإحساس، لكن نقدر نفهم التحدي الهندسي.",
+        "أنت نقلت جزءا من الحركة تحت السطح، فبقيت محتاج تتعامل مع ناتج تشغيل القطار في المكان الجديد.",
+        "حل مكان المسار مش حل مصدر الطاقة تلقائيا.",
+        "وكل اختيار بيغير السؤال اللي بعده، خصوصا لما المكان محدود والناس نفسها هتستخدمه كل يوم."
+      ],
+      "screen": "**البخار دخل معاهم**",
+      "visual": "طبقة أبخرة رمزية داخل القطاع، بلا اختناق درامي أو تصوير أشخاص مرضى.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "المدينة بتتعلم وهي شغالة",
+      "a": "3:25",
+      "z": "4:05",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "واللي نقدر نتعلمه من البداية دي مش إن أي فكرة ناقصة تستاهل التنفيذ مهما كانت عيوبها.",
+        "لكن إننا نفصل بين قيمتها وحدودها.",
+        "المترو كان إنجازا هندسيا مستخدما بقوة، وفي الوقت نفسه احتاج تطويرا عشان مشكلات زي التشغيل والأبخرة.",
+        "الصورة اللي بنشوفها النهارده ما ينفعش ترجع للوراء وتغطي على صعوبة أول خطوة.",
+        "وبرضه صعوبة البداية ما تنفيش أثرها.",
+        "حكايات التكنولوجيا ساعات بتحب اختيارا واحدا: إما نجاح كامل، أو فشل كامل.",
+        "بينما اللي حصل فعلا كان نظاما جديدا مفيدا، وفيه أشياء لازم تتحسن عشان يفضل يخدم المدينة."
+      ],
+      "screen": "**المدينة بتتعلم وهي شغالة**",
+      "visual": "بطاقة قيمة الحل بجوار بطاقة حدود البداية، لا ميزان يحكم نجاحا مطلقا.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "قفلة",
+      "a": "4:05",
+      "z": "4:47",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "المرة الجاية لما تنزل محطة مترو، افتكر إن الفكرة اللي بقت عادية تحت رجليك كانت يوما اقتراحا جريئا وسط زحمة شوارع.",
+        "وحكاية لندن بتورينا إن التطوير مش دائما طريقا مستقيما من فكرة عبقرية لنتيجة مثالية.",
+        "فيه حفر وتعطيل وتجربة وحدود، وبعدها فرصة إن اللي جاي يبني على اللي فات.",
+        "والمدينة الذكية مش اللي ما تقابلش مشاكل؛ دي اللي تفهم مشكلتها وتتعلم من حلها بدل ما تتعامل معاه كأنه آخر نسخة ممكنة.",
+        "لو شارعك زحمة، كنت هتفكر تزود المساحة فوق، ولا تغير طريقة الحركة نفسها؟",
+        "أنا جوكر، ودي كانت حكاية من سطرين."
+      ],
+      "screen": "**قفلة**",
+      "visual": "سطح وطبقة تحته يعملان معا في رسم بسيط، ثم شعار سطرين.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    }
+  ],
+  "prompt_en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.\n\nHOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.\n\nOpen on surface congestion and reveal a shallow underground steam railway, not a modern electric deep-level Tube train.\n\nShow mainline arrivals creating onward travel demand. Use a labeled schematic network rather than inventing exact nineteenth-century passenger flows.\n\nAnimate cut-and-cover in three conceptual stages. Do not substitute a modern tunnel-boring machine or imply construction caused no surface disruption.\n\nLimit the opening route to Paddington–Farringdon on 10 January 1863. Keep future network expansion visually separate from the opening day.\n\nRepresent fumes with restrained translucent shapes. Treat steam operation as a documented limitation without inventing individual passenger suffering or dialogue.\n\nBalance the transport achievement with its operational limits. Do not invent a single moment when all later improvements arrived.\n\nEnd with a clear two-level city schematic and the original Satreen logo, no traffic sounds or train SFX.\n\nSTYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.\n\nSTORY-SPECIFIC FACT CHECK: Opening-era Metropolitan trains used steam. Show shallow cut-and-cover rather than a modern electric deep Tube or a tunnel-boring machine. No invented passenger testimony.",
+  "prompt_parts": [
+    {
+      "title": "المقاس وخطة التنفيذ",
+      "cat": "tech",
+      "en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.",
+      "tr": "فيديو عرضي، حوالي خمس دقائق. التسجيل البشري يحدد المدة والتزامن. اعرض الستوريبورد أولا.",
+      "why": "الأزمنة المكتوبة تقديرية وليست قياس تسجيل."
+    },
+    {
+      "title": "الخطاف",
+      "cat": "key",
+      "en": "HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.",
+      "tr": "ابدأ بسؤال المشهد الأول، واكشف اسم الموضوع عند ذكره في الصوت، لا بكارت عنوان مبكر.",
+      "why": "نحافظ على فضول المشاهد من غير تأخير مصطنع."
+    },
+    {
+      "title": "المشهد 1: ننزل تحت الشارع؟",
+      "cat": "vis",
+      "en": "Open on surface congestion and reveal a shallow underground steam railway, not a modern electric deep-level Tube train.",
+      "tr": "شارع رمزي مزدحم ثم قطاع تحت السطح، والقاطرة لا تظهر إلا بعد ذكر البخار.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 2: القطر جاب ناس... والناس زودت الحركة",
+      "cat": "vis",
+      "en": "Show mainline arrivals creating onward travel demand. Use a labeled schematic network rather than inventing exact nineteenth-century passenger flows.",
+      "tr": "محطات رئيسية كعقد عامة، وركاب رمزيون ينتقلون منها، بلا ادعاء خريطة مساحية دقيقة.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 3: يحفروا الشارع... وبعدين يغطوه",
+      "cat": "vis",
+      "en": "Animate cut-and-cover in three conceptual stages. Do not substitute a modern tunnel-boring machine or imply construction caused no surface disruption.",
+      "tr": "قطاع ثلاث مراحل: حفرة، سكة، سقف يعيد سطح الشارع. ليبل: شرح مبسط.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 4: يوم الافتتاح",
+      "cat": "vis",
+      "en": "Limit the opening route to Paddington–Farringdon on 10 January 1863. Keep future network expansion visually separate from the opening day.",
+      "tr": "10 يناير 1863 ونقطتان فقط، لا خريطة شبكة لندن الحديثة باعتبارها الأصلية.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 5: البخار دخل معاهم",
+      "cat": "vis",
+      "en": "Represent fumes with restrained translucent shapes. Treat steam operation as a documented limitation without inventing individual passenger suffering or dialogue.",
+      "tr": "طبقة أبخرة رمزية داخل القطاع، بلا اختناق درامي أو تصوير أشخاص مرضى.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 6: المدينة بتتعلم وهي شغالة",
+      "cat": "vis",
+      "en": "Balance the transport achievement with its operational limits. Do not invent a single moment when all later improvements arrived.",
+      "tr": "بطاقة قيمة الحل بجوار بطاقة حدود البداية، لا ميزان يحكم نجاحا مطلقا.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 7: قفلة",
+      "cat": "vis",
+      "en": "End with a clear two-level city schematic and the original Satreen logo, no traffic sounds or train SFX.",
+      "tr": "سطح وطبقة تحته يعملان معا في رسم بسيط، ثم شعار سطرين.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "الستايل والصوت والختام",
+      "cat": "style",
+      "en": "STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.",
+      "tr": "كحلي وأبيض وبرتقالي، كلمات عربية RTL متزامنة مع تسجيل جوكر فقط، وشعار الأصل كما هو. لا موسيقى ولا مؤثرات ولا أصوات مولدة. التسليم فيديو وكود وترجمة بعد مراجعة الصورة.",
+      "why": "هذه مواصفات إنتاج مقترحة، لا فيديو منفذ."
+    },
+    {
+      "title": "حدود الحقائق",
+      "cat": "rule",
+      "en": "STORY-SPECIFIC FACT CHECK: Opening-era Metropolitan trains used steam. Show shallow cut-and-cover rather than a modern electric deep Tube or a tunnel-boring machine. No invented passenger testimony.",
+      "tr": "لا ترسم أنفاق الحفر العميق أو قطارا كهربائيا على أنه شكل افتتاح 1863. لا نستنتج تجربة كل راكب أو نختلق أعدادا وأسعار تذاكر. لقب أول سكة حديد تحت الأرض منسوب لمرجع المتحف.",
+      "why": "لا نضحي بالدقة لصالح لقطة أجمل."
+    }
+  ],
+  "facts": [
+    {
+      "t": "London Transport Museum: بداية البناء 1860، cut-and-cover، افتتاح Paddington إلى Farringdon في 10 يناير 1863، القاطرات البخارية ومشكلة الأبخرة.",
+      "src": "https://www.ltmuseum.co.uk/visit/museum-guide/worlds-first-underground"
+    }
+  ],
+  "banned": [
+    "لا ترسم أنفاق الحفر العميق أو قطارا كهربائيا على أنه شكل افتتاح 1863. لا نستنتج تجربة كل راكب أو نختلق أعدادا وأسعار تذاكر. لقب أول سكة حديد تحت الأرض منسوب لمرجع المتحف.",
+    "لا حوارات تاريخية مخترعة، ولا أصوات مولدة أو موسيقى أو مؤثرات."
+  ],
+  "production_note": "مسودة للمراجعة بصوت الملك جوكر. 621 كلمة منطوقة؛ حوالي 4.3 إلى 5.0 دقيقة قبل وقفات الأداء. أزمنة المشاهد تقديرية عند 130 كلمة في الدقيقة. لا صوت أو فيديو منفذ ضمن الصفحة.",
+  "quiz": {
+    "q": "خط متروبوليتان افتتح سنة 1863 بإيه؟",
+    "options": [
+      "قطارات كهربائية حديثة",
+      "قاطرات بخارية ومسار قريب من السطح",
+      "كبسولات طائرة"
+    ],
+    "correct": 1,
+    "explain": "البدايات استخدمت البخار والحفر والتغطية في جزء كبير من المسار."
+  },
+  "siblings": {
+    "prev": "first-barcode-scan",
+    "next": "boston-molasses"
+  }
+}

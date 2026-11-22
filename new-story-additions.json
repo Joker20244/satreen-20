@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "rosetta-key",
+    "title": "حجر مكسور فتح كلام مقفول",
+    "description": "حجر رشيد: نفس المعنى بثلاث كتابات",
+    "category": "تاريخ ولغات",
+    "site": "ideas/rosetta-key/index.html",
+    "pdf": "ideas/rosetta-key/rosetta-key.pdf",
+    "prompt": "ideas/rosetta-key/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "antikythera-gears",
+    "title": "تروس طلعت من قاع البحر",
+    "description": "آلة أنتيكيثيرا: حساب السماء بالمعدن",
+    "category": "آثار وعلوم",
+    "site": "ideas/antikythera-gears/index.html",
+    "pdf": "ideas/antikythera-gears/antikythera-gears.pdf",
+    "prompt": "ideas/antikythera-gears/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "hubble-glasses",
+    "title": "التلسكوب اللي احتاج نظارة",
+    "description": "هابل: إزاي اتصلحت الصورة من غير تغيير المرآة الرئيسية؟",
+    "category": "فضاء وهندسة",
+    "site": "ideas/hubble-glasses/index.html",
+    "pdf": "ideas/hubble-glasses/hubble-glasses.pdf",
+    "prompt": "ideas/hubble-glasses/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "voyager-record",
+    "title": "جواب من الأرض... من غير عنوان وصول",
+    "description": "الأسطوانة الذهبية على فوييجر",
+    "category": "فضاء وثقافة",
+    "site": "ideas/voyager-record/index.html",
+    "pdf": "ideas/voyager-record/voyager-record.pdf",
+    "prompt": "ideas/voyager-record/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "pitch-drop",
+    "title": "النقطة اللي استنت سنين",
+    "description": "تجربة القار: الحركة اللي العين مستعجلاها",
+    "category": "علوم غريبة",
+    "site": "ideas/pitch-drop/index.html",
+    "pdf": "ideas/pitch-drop/pitch-drop.pdf",
+    "prompt": "ideas/pitch-drop/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "qr-three-squares",
+    "title": "تلات مربعات خلّوا الرسالة تتقري",
+    "description": "QR Code: مشكلة مصنع وصلت لجيبك",
+    "category": "تكنولوجيا يومية",
+    "site": "ideas/qr-three-squares/index.html",
+    "pdf": "ideas/qr-three-squares/qr-three-squares.pdf",
+    "prompt": "ideas/qr-three-squares/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "first-barcode-scan",
+    "title": "علبة لبان عدّت على خط البداية",
+    "description": "أول مسح تجاري شهير لباركود UPC",
+    "category": "تكنولوجيا وتجارة",
+    "site": "ideas/first-barcode-scan/index.html",
+    "pdf": "ideas/first-barcode-scan/first-barcode-scan.pdf",
+    "prompt": "ideas/first-barcode-scan/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "underground-steam",
+    "title": "القطر اللي دخل تحت الزحمة",
+    "description": "بداية مترو لندن كانت بالبخار",
+    "category": "مدن وهندسة",
+    "site": "ideas/underground-steam/index.html",
+    "pdf": "ideas/underground-steam/underground-steam.pdf",
+    "prompt": "ideas/underground-steam/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "boston-molasses",
+    "title": "اليوم اللي السائل التقيل بقى كارثة",
+    "description": "فيضان الدبس في بوسطن سنة 1919",
+    "category": "تاريخ وسلامة",
+    "site": "ideas/boston-molasses/index.html",
+    "pdf": "ideas/boston-molasses/boston-molasses.pdf",
+    "prompt": "ideas/boston-molasses/prompt.txt",
+    "number": null
+  },
+  {
+    "slug": "svalbard-backup",
+    "title": "خزنة جوه جبل... واللي فيها بذور",
+    "description": "سفالبارد: نسخة احتياطية للتنوع الزراعي",
+    "category": "طبيعة ومستقبل",
+    "site": "ideas/svalbard-backup/index.html",
+    "pdf": "ideas/svalbard-backup/svalbard-backup.pdf",
+    "prompt": "ideas/svalbard-backup/prompt.txt",
+    "number": null
+  }
+]

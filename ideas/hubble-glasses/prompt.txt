@@ -1,0 +1,25 @@
+FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.
+
+HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.
+
+Open on a blurred star diagram and reveal Hubble at the spoken cue. Avoid using a falsely blurred real NASA science image as evidence.
+
+Illustrate spherical aberration with exaggerated ray paths labeled not to scale. The error is optical geometry, not dirt, broken glass or digital compression.
+
+Show modular servicing access with conceptual removable instrument bays. Do not imply every component could simply be swapped in orbit.
+
+Distinguish WFPC2's built-in correction from COSTAR's corrective mirrors for other instruments. Never draw literal spectacles bolted to the telescope.
+
+Represent the five EVAs as an accurately labeled timeline. Keep the primary mirror in place throughout the repair animation.
+
+Show a schematic improvement in the point-spread pattern. Avoid claiming Hubble produced no useful data before servicing or became flawless afterward.
+
+Resolve to a crisp symbolic star and a service-access motif, then the unchanged supplied Satreen logo.
+
+STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.
+AUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.
+FACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.
+END CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.
+DELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.
+
+STORY-SPECIFIC FACT CHECK: Eyeglasses is an analogy. The primary mirror was not replaced in the 1993 mission. Distinguish WFPC2 from COSTAR; do not call early Hubble science worthless.

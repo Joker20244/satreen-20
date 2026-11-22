@@ -1,0 +1,253 @@
+{
+  "slug": "antikythera-gears",
+  "n": "جديد",
+  "title": "تروس طلعت من قاع البحر",
+  "hook": "آلة أنتيكيثيرا: حساب السماء بالمعدن",
+  "duration_ar": "حوالي 5 دقائق، حسب التسجيل",
+  "scenes": [
+    {
+      "name": "كنز شكله مش كنز",
+      "a": "0:00",
+      "z": "0:38",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "لو غطاس طلع من حطام سفينة قديمة ومعاه قطعة متآكلة، غالبا التماثيل والدهب هياخدوا العين قبلها.",
+        "لكن أحيانا الحاجة الأقل لمعانا هي اللي تقلب فهمك للزمن كله.",
+        "في حطام قرب جزيرة يونانية، ظهر جهاز فيه تروس.",
+        "مش ترس واحد وقع من ماكينة حديثة، لكن بقايا آلة قديمة لحسابات مرتبطة بالسماء.",
+        "اسمها آلة أنتيكيثيرا.",
+        "واللغز مش إن القدماء كانوا بيبصوا للنجوم؛ ده معروف من آثار كتير.",
+        "اللغز إن جزءا من المعرفة دي اتحول لترتيب ميكانيكي: حركة معدن تساعدك تتعامل مع زمن ودورات وأحداث فلكية."
+      ],
+      "screen": "**كنز شكله مش كنز**",
+      "visual": "قاع بحر رمزي وقطعة برونزية داكنة، ثم حافة ترس، من غير كنز مزعوم محدد.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "حطام بيرجع أسئلة",
+      "a": "0:38",
+      "z": "1:19",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "المرحلة الأولى من انتشال حطام أنتيكيثيرا كانت في ألف وتسعمية وألف تسعمية وواحد، بمشاركة غواصي إسفنج وجهات يونانية.",
+        "ومن الموقع خرجت تماثيل وأوان وحاجات مختلفة، ومعاها بقايا الآلة.",
+        "المتحف الأثري الوطني في أثينا بيربطها بعالم الحضارة الهلنستية قبل الميلاد.",
+        "يعني هي مش اختراع طلع بعد الساعات الحديثة ورجعنا نسبناه للقدماء.",
+        "لكن برضه معرفة الحقبة مش معناها إننا نعرف اسم كل إيد صنعتها.",
+        "ودي نقطة مهمة من البداية: فيه حاجات نعرفها من القطع ودراستها، وفيه فراغات ما ينفعش نملاها بحكاية مريحة لمجرد إن الجمهور عايز اسما وصورة وبطلا واحدا."
+      ],
+      "screen": "**حطام بيرجع أسئلة**",
+      "visual": "1900/1901 ثم خط زمني يعود لما قبل الميلاد. لا تاريخ صناعة واحد محسوم على الشاشة.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "ماذا بقي من الجهاز؟",
+      "a": "1:19",
+      "z": "1:57",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "الآلة كانت فيها عجلات مسننة، ومحاور، وأقراص ومؤشرات، وكانت داخل علبة خشبية.",
+        "المعدن اللي بقى منها متآكل ومش كامل، فإعادة فهمه محتاجة تبص لعلاقة الأجزاء، مش لشكلها كل واحد لوحده.",
+        "ترس صغير ممكن يبقى مهم لأن عدد أسنانه وعلاقته بترس تاني يحددوا نسبة حركة.",
+        "وده هو قلب الفكرة الميكانيكية اللي بنقربها: تلف جزءا، فتتحرك أجزاء تانية بمعدلات مختلفة.",
+        "الرسم اللي قدامك دلوقتي مجرد شرح للمبدأ.",
+        "ما ينفعش نرسم أي مجموعة تروس جميلة، ونقول دي بالضبط البنية الأصلية الكاملة اللي كانت جوه العلبة القديمة."
+      ],
+      "screen": "**ماذا بقي من الجهاز؟**",
+      "visual": "ترسان تعليميان كبيران بعلاقة حركة بسيطة، وعلامة واضحة: مبدأ توضيحي، لا إعادة بناء كاملة.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "الشمس والقمر مش جدول واحد",
+      "a": "1:57",
+      "z": "2:39",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "ليه أصلا حد يحتاج آلة لحساب السماء؟",
+        "لأن الزمن اللي بننظمه بالشمس مش بيقسم نفسه ببساطة إلى عدد صحيح من الشهور القمرية.",
+        "ومع مرور الوقت، الاختلاف بين الحسابين بيظهر.",
+        "الفلكيون القدام عرفوا دورات طويلة تساعدهم يربطوا الحسابات ببعض، وآلة أنتيكيثيرا كانت بتجسد معرفة من النوع ده.",
+        "ومن وظائفها حسابات تقويمية وتوقعات مرتبطة بالكسوف والخسوف.",
+        "كلمة توقع هنا مش معناها سحر أو معرفة كل تفصيلة في المستقبل.",
+        "معناها استخدام انتظامات فلكية وحسابات لظواهر معينة.",
+        "فيه فرق بين إن الجهاز يعرف نمطا في حركة السماء، وبين إننا نمنحه قدرة خارقة ما قالهاش الدليل."
+      ],
+      "screen": "**الشمس والقمر مش جدول واحد**",
+      "visual": "دائرة شمسية ودورة قمرية لا تتطابق نهايتاهما، ثم حلقة زمنية طويلة.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "الجهاز كان عليه كلام كمان",
+      "a": "2:39",
+      "z": "3:20",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "والموضوع مش تروس صامتة بس.",
+        "بقايا الآلة عليها نقوش مرتبطة بوظائفها وحساباتها، وفيها تعليمات تساعد في فهم استخدامها.",
+        "وده بيدي الباحثين طريقا تانيا غير النظر للمعدن وحده.",
+        "النقش ممكن يقولك حاجة عن وظيفة جزء، والجزء نفسه يساعدك تختبر فهمك للنقش.",
+        "هنا الأثري واللي بيدرس الكتابة واللي فاهم الميكانيكا كلهم ليهم دور.",
+        "كل واحد ماسك نوع دليل مختلف، ولما الأدلة تتقابل، الصورة تبقى أغنى.",
+        "عشان كده الفكرة اللي بتقول إن التكنولوجيا القديمة ما نفهمهاش إلا بفرضية غريبة بتفوت شغلا بشريا واضحا: ملاحظة وحساب وصناعة، وبعدها دراسة وصبر على البقايا."
+      ],
+      "screen": "**الجهاز كان عليه كلام كمان**",
+      "visual": "ثلاث عدسات: نقش، تروس، تقويم. لا تولد نصا يونانيا وتقدمه كقراءة أصلية.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "كمبيوتر؟ على أي معنى؟",
+      "a": "3:20",
+      "z": "3:59",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "ممكن تسمع حد بيسمي الآلة كمبيوتر قديما.",
+        "التعبير بيساعدنا نستوعب إنها بتحسب، لكنه ممكن يضلل لو تخيلنا شاشة وبرامج وشرائح إلكترونية.",
+        "اللي بنتكلم عنه جهاز ميكانيكي متخصص، مش لابتوب قبل أوانه.",
+        "وقيمته مش محتاجة مبالغة عشان تبهرنا.",
+        "بالعكس، لما نفهم طبيعة شغله وحدود اللي نعرفه عنه، يبقى الإعجاب أصدق.",
+        "قطعة متآكلة من البحر بتوريك إن ناس من زمان قدرت تحول انتظامات لاحظتها في السماء إلى حركة جوه علبة.",
+        "دي فكرة قوية بما يكفي، من غير ما نضيف لها كهربا مختفية أو أسرارا من حضارة خيالية."
+      ],
+      "screen": "**كمبيوتر؟ على أي معنى؟**",
+      "visual": "كلمة حساب ميكانيكي، مع حذف رمزي لشاشة إلكترونية من المقارنة.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    },
+    {
+      "name": "قفلة",
+      "a": "3:59",
+      "z": "4:38",
+      "icon": "⚙",
+      "rule": "التوقيت تقديري. لا تُقرأ إرشادات الصورة. وقفة طبيعية قبل الكشف وعند نهاية المشهد.",
+      "lines": [
+        "يمكن أغرب حاجة في آلة أنتيكيثيرا إنها خلتنا نراجع توقعاتنا عن الشيء اللي ممكن نلاقيه في حطام قديم.",
+        "مش كل اللي ضاع كان بسيطا، ومش كل اللي اتآكل فقد قدرته إنه يفاجئنا.",
+        "لكن المفاجأة العلمية أحلى لما تفتح سؤالا، مش لما تبقى تصريحا نقول فيه أي شيء.",
+        "بين الترس والنقش والدورة الفلكية، فيه تاريخ ناس حاولت تفهم العالم بأدوات زمنها.",
+        "ولو لقيت بقايا جهاز من غير كتالوج كامل، هتبدأ من شكله، ولا من السؤال اللي كان بيحاول يحله؟",
+        "أنا جوكر، ودي كانت حكاية من سطرين."
+      ],
+      "screen": "**قفلة**",
+      "visual": "القطعة الأصلية المرسومة رمزيا تحيط بها أسئلة صغيرة، ثم الشعار المقدم.",
+      "why": "النص هو أساس المشهد؛ الرسم يشرح الفكرة ولا يضيف واقعة غير موثقة."
+    }
+  ],
+  "prompt_en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.\n\nHOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.\n\nReveal a gear edge within a corroded object after a restrained underwater opening. Do not show a shiny intact machine being recovered.\n\nSeparate the modern recovery dates from the ancient manufacturing era. Use a broad Hellenistic-era marker, not an unjustified exact birthday or named inventor.\n\nUse a simplified gear-ratio teaching diagram. Keep it explicitly distinct from any scholarly reconstruction of the surviving mechanism.\n\nContrast solar-year and lunar-month cycles with conceptual dials. Depict eclipse prediction as cycle-based calculation, never omniscient forecasting.\n\nInterleave inscription, gear and calendar evidence. Use placeholder marks labeled symbolic instead of fabricated ancient Greek transcriptions.\n\nClarify mechanical computation versus electronic general-purpose computing. No holograms, circuit boards or alien imagery attached to the ancient device.\n\nEnd with the corroded-fragment motif and open questions, not a falsely definitive full-machine reveal. Preserve the original logo.\n\nSTYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.\n\nSTORY-SPECIFIC FACT CHECK: This is an ancient mechanical astronomical calculator, not an electronic computer or alien technology. No known named maker or definitive intact reconstruction is asserted.",
+  "prompt_parts": [
+    {
+      "title": "المقاس وخطة التنفيذ",
+      "cat": "tech",
+      "en": "FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.",
+      "tr": "فيديو عرضي، حوالي خمس دقائق. التسجيل البشري يحدد المدة والتزامن. اعرض الستوريبورد أولا.",
+      "why": "الأزمنة المكتوبة تقديرية وليست قياس تسجيل."
+    },
+    {
+      "title": "الخطاف",
+      "cat": "key",
+      "en": "HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.",
+      "tr": "ابدأ بسؤال المشهد الأول، واكشف اسم الموضوع عند ذكره في الصوت، لا بكارت عنوان مبكر.",
+      "why": "نحافظ على فضول المشاهد من غير تأخير مصطنع."
+    },
+    {
+      "title": "المشهد 1: كنز شكله مش كنز",
+      "cat": "vis",
+      "en": "Reveal a gear edge within a corroded object after a restrained underwater opening. Do not show a shiny intact machine being recovered.",
+      "tr": "قاع بحر رمزي وقطعة برونزية داكنة، ثم حافة ترس، من غير كنز مزعوم محدد.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 2: حطام بيرجع أسئلة",
+      "cat": "vis",
+      "en": "Separate the modern recovery dates from the ancient manufacturing era. Use a broad Hellenistic-era marker, not an unjustified exact birthday or named inventor.",
+      "tr": "1900/1901 ثم خط زمني يعود لما قبل الميلاد. لا تاريخ صناعة واحد محسوم على الشاشة.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 3: ماذا بقي من الجهاز؟",
+      "cat": "vis",
+      "en": "Use a simplified gear-ratio teaching diagram. Keep it explicitly distinct from any scholarly reconstruction of the surviving mechanism.",
+      "tr": "ترسان تعليميان كبيران بعلاقة حركة بسيطة، وعلامة واضحة: مبدأ توضيحي، لا إعادة بناء كاملة.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 4: الشمس والقمر مش جدول واحد",
+      "cat": "vis",
+      "en": "Contrast solar-year and lunar-month cycles with conceptual dials. Depict eclipse prediction as cycle-based calculation, never omniscient forecasting.",
+      "tr": "دائرة شمسية ودورة قمرية لا تتطابق نهايتاهما، ثم حلقة زمنية طويلة.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 5: الجهاز كان عليه كلام كمان",
+      "cat": "vis",
+      "en": "Interleave inscription, gear and calendar evidence. Use placeholder marks labeled symbolic instead of fabricated ancient Greek transcriptions.",
+      "tr": "ثلاث عدسات: نقش، تروس، تقويم. لا تولد نصا يونانيا وتقدمه كقراءة أصلية.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 6: كمبيوتر؟ على أي معنى؟",
+      "cat": "vis",
+      "en": "Clarify mechanical computation versus electronic general-purpose computing. No holograms, circuit boards or alien imagery attached to the ancient device.",
+      "tr": "كلمة حساب ميكانيكي، مع حذف رمزي لشاشة إلكترونية من المقارنة.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "المشهد 7: قفلة",
+      "cat": "vis",
+      "en": "End with the corroded-fragment motif and open questions, not a falsely definitive full-machine reveal. Preserve the original logo.",
+      "tr": "القطعة الأصلية المرسومة رمزيا تحيط بها أسئلة صغيرة، ثم الشعار المقدم.",
+      "why": "رسم توضيحي تابع للنص، لا لقطة توثيقية أو بيانات أصلية."
+    },
+    {
+      "title": "الستايل والصوت والختام",
+      "cat": "style",
+      "en": "STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.\nAUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.\nFACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.\nEND CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.\nDELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.",
+      "tr": "كحلي وأبيض وبرتقالي، كلمات عربية RTL متزامنة مع تسجيل جوكر فقط، وشعار الأصل كما هو. لا موسيقى ولا مؤثرات ولا أصوات مولدة. التسليم فيديو وكود وترجمة بعد مراجعة الصورة.",
+      "why": "هذه مواصفات إنتاج مقترحة، لا فيديو منفذ."
+    },
+    {
+      "title": "حدود الحقائق",
+      "cat": "rule",
+      "en": "STORY-SPECIFIC FACT CHECK: This is an ancient mechanical astronomical calculator, not an electronic computer or alien technology. No known named maker or definitive intact reconstruction is asserted.",
+      "tr": "لا تنسبها لصانع محدد أو لكائنات فضائية. لا تصور إعادة بناء افتراضية كأنها النموذج الكامل اليقيني أو كمبيوتر إلكتروني. لم نحلل القطع الأصلية.",
+      "why": "لا نضحي بالدقة لصالح لقطة أجمل."
+    }
+  ],
+  "facts": [
+    {
+      "t": "National Archaeological Museum, Athens: الانتشال في 1900/1901، أصل هلنستي قبل الميلاد، تروس ومحاور ومؤشرات وعلبة خشبية ووظائف فلكية.",
+      "src": "https://antikythera-mechanism.namuseum.gr/en/archaeologist/"
+    },
+    {
+      "t": "National Archaeological Museum, Athens: نقوش وتعليمات وحسابات تقويمية وفلكية.",
+      "src": "https://antikythera-mechanism.namuseum.gr/en/epigraphist/"
+    },
+    {
+      "t": "National Archaeological Museum, Athens: الدورات الفلكية وعلاقة التقويم الشمسي والقمري وحسابات الكسوف.",
+      "src": "https://antikythera-mechanism.namuseum.gr/en/what-is-the-mechanism-and-what-does-it-consist-of/"
+    }
+  ],
+  "banned": [
+    "لا تنسبها لصانع محدد أو لكائنات فضائية. لا تصور إعادة بناء افتراضية كأنها النموذج الكامل اليقيني أو كمبيوتر إلكتروني. لم نحلل القطع الأصلية.",
+    "لا حوارات تاريخية مخترعة، ولا أصوات مولدة أو موسيقى أو مؤثرات."
+  ],
+  "production_note": "مسودة للمراجعة بصوت الملك جوكر. 603 كلمة منطوقة؛ حوالي 4.2 إلى 4.8 دقيقة قبل وقفات الأداء. أزمنة المشاهد تقديرية عند 130 كلمة في الدقيقة. لا صوت أو فيديو منفذ ضمن الصفحة.",
+  "quiz": {
+    "q": "آلة أنتيكيثيرا كانت إيه؟",
+    "options": [
+      "كمبيوتر إلكتروني",
+      "جهاز ميكانيكي لحسابات فلكية",
+      "جهاز بث لاسلكي"
+    ],
+    "correct": 1,
+    "explain": "الحساب هنا ميكانيكي، وليس إلكترونيا."
+  },
+  "siblings": {
+    "prev": "rosetta-key",
+    "next": "hubble-glasses"
+  }
+}

@@ -1,0 +1,25 @@
+FORMAT: Create an original 16:9, 1920x1080, 30 fps Egyptian Arabic motion-graphics story. Aim for about five minutes, but actual runtime, cuts, word reveals and emphasis must follow Joker's supplied human recording. Before recording, label any animatic provisional; never claim final synchronization. Show the plan and storyboard before rendering.
+
+HOOK: Start with the mystery in scene 1; reveal the topic only at its spoken reveal, not in an opening title card. Do not delay the narration to force a fixed reveal time.
+
+Start with an obviously non-scannable teaching pattern. Reveal the three finder corners and the QR name at the spoken cue; never embed a live URL.
+
+Show repeated barcode-scanning tasks as a conceptual workflow, then the shift toward two-dimensional encoding. Do not invent daily productivity statistics.
+
+Compare a one-dimensional strip with a two-dimensional grid. Present capacity qualitatively, not as a universal fixed number valid for every QR version.
+
+Use a correct isolated finder-pattern ratio diagram, 1:1:3:1:1, without pretending the full surrounding design is a valid decodable QR code.
+
+Depict partial damage tolerance conceptually. No claimed percentage, live decoding demo or assertion that arbitrary damage is always repairable.
+
+Move from the 1994 manufacturing context to generic modern uses. Separate recognizing a code from trusting or acting on its decoded content.
+
+Resolve the finder corners around the idea of clarity, then use the original Satreen image asset unchanged.
+
+STYLE: Navy #101828, white and one #F97316 orange keyword per screen. Bold Cairo Arabic with correct editable RTL shaping, stable centered captions below a dedicated art area, chapter pill and thin progress line. Use restrained motion, no flashing, at least 6% safe margins and no more than two subtitle lines. Use original illustrative graphics, no stock or fake archive footage. Label schematic reconstructions «رسم توضيحي». No illegible tiny watermarks or development counters; readable Satreen branding is welcome.
+AUDIO: Joker's recording is the only audio. No generated voice, actor dialogue, music or sound effects, including sounds mentioned in the story.
+FACTS: Follow the supplied scenario and cited sources. Do not invent dialogue, exact reconstructions, performance tests or numerical data. Preserve uncertainty and all fact-check caveats. Ordinary teaching analogies are not historical evidence.
+END CARD: Use the supplied original Satreen image asset unchanged, aspect-correct, not re-lettered, redrawn or replaced. It is a small raster reference; avoid destructive enlargement. Tagline outside the original asset: «معلومات وحكايات في سطرين», with «سطرين» orange, plus a gentle subscribe circle.
+DELIVER: MP4 1920x1080, editable motion source code and subtitles. Review Arabic spelling, mixed-direction terms, scene timing and actual rendered pixels before export. No purchase, account change or publication is part of this production prompt.
+
+STORY-SPECIFIC FACT CHECK: QR was not the first of all two-dimensional codes. Three finder patterns aid recognition but do not validate the content. Damage tolerance is limited; no universal performance guarantee.
