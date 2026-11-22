@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "بسكوتة اتلفت في معرض" (the story of the ice cream cone and its many claimants).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name the ice cream cone in the first 15 seconds. Dive straight into the mystery: an ice cream vendor at a huge fair running out of dishes, and the waffle seller next to him rolling his waffles into cones. Then flag it: more than one person claims this story.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE 1904 WORLD FAIR VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The fair: the 1904 St. Louis World's Fair drawn as a busy illustrated map, crowds, flags, two neighboring stalls.
+- The roll: a hot waffle rolled by hand into a cone shape, drawn step by step, a scoop of ice cream placed on top.
+- The claimants: three drawn claim cards side by side, each with a different name and year, a big honest question mark above them.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 The popular tale, 3 But there is an older patent, 4 And more claimants, 5 The cone won anyway, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): The ice cream cone story is disputed: the most famous version places it at the 1904 St. Louis World's Fair, where a waffle vendor (often named Ernest Hamwi) supposedly helped an ice cream vendor who ran out of dishes by rolling waffles into cones. But Italo Marchiony had a New York patent for ice cream cone molds from 1903, and other vendors at the fair also claimed the idea. Frame everything as the widely told account with multiple claimants; never present one hero as settled fact.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
