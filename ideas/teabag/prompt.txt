@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "كيس هدية بقى شاي" (the story of Thomas Sullivan and the accidental tea bag).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name the tea bag in the first 15 seconds. Dive straight into the mystery: customers dunking a merchant's sample packaging straight into hot water instead of opening it.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE TEA SAMPLE VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The samples: a 1908 New York tea merchant's desk drawn, small hand-sewn silk pouches filled with tea leaves, a shipping box labeled samples.
+- The dunk: a drawn cup of hot water, a whole silk pouch lowered into it on its string, the water turning amber, drawn step by step.
+- The evolution: the pouch morphing across a timeline from silk to gauze to the modern paper tea bag with a tag.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Thomas Sullivan, 3 The wrong dunk, 4 From silk to paper, 5 Tea got faster, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): Thomas Sullivan, a New York tea merchant, is credited in the widely told account with sending tea samples in small silk bags around 1908; customers steeped the bags whole, finding them convenient, and asked for more. Gauze and then paper bags followed commercially. Earlier patents for tea bags existed (1901, 1903), so frame Sullivan's as the popular commercial story, not the absolute invention. No invented dialogue.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
