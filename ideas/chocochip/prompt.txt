@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "شوكولاتة ماساحتش" (the story of Ruth Wakefield and the chocolate chip cookie).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name the chocolate chip cookie in the first 15 seconds. Dive straight into the mystery: a baker cutting chocolate into dough expecting it to melt away, and finding it holding its shape when the tray comes out of the oven.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE TOLL HOUSE KITCHEN VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The inn kitchen: a 1930s Massachusetts inn kitchen drawn warm, a mixing bowl, a bar of semi-sweet chocolate being chopped, an oven glowing.
+- The surprise tray: cookies out of the oven with distinct chocolate chunks holding their shape, one cookie broken open in slow motion showing the melted-but-held chocolate.
+- The deal: a drawn recipe card next to a chocolate bar wrapper, a handshake drawn symbolically between the inn and the chocolate company.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Ruth Wakefield, 3 The night of the cookie, 4 The recipe on the wrapper, 5 From the inn to every oven, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): Ruth Wakefield, who ran the Toll House Inn in Massachusetts with her husband, is credited with creating the chocolate chip cookie around 1938 by adding chopped Nestlé semi-sweet chocolate to cookie dough; the chocolate held its shape instead of melting through. Her recipe was published, and Nestlé printed it on its bars in a deal that reportedly gave her a lifetime supply of chocolate. Some historians debate whether it was a deliberate experiment or accident; frame it as the widely told account. No invented dialogue.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
