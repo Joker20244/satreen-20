@@ -1,0 +1,23 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes 45 seconds, 30fps. Title: "قطعة شوكولاتة غيّرت المطبخ" (the story of Percy Spencer and the microwave oven).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name the microwave and do NOT show an oven in the first 15 seconds. Dive straight into the mystery (a chocolate bar melting in a pocket and one question, with popcorn turning into small clouds and a huge shadowy oven only hinted at), hold the tension, then reveal the microwave by name at the end of scene 1 (around 0:20 to 0:25). The title text appears only after the reveal.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+KITCHEN + MICROWAVE VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- Radar waves: concentric orange rings and soft sweeping lines radiating from a glowing vacuum-tube diagram (the magnetron), scanning a minimal sky map with plane and submarine icons.
+- Chocolate: a stylized chocolate bar in a drawn pocket, slowly melting with a single drop falling in slow motion. Warm orange/brown accent kept within the palette, soft glow.
+- Popcorn: a small drawn popcorn bag next to the glowing tube, kernels turning into small puffy white clouds,.
+- Oven evolution: a huge 1947 oven shape labeled "رادارانج" with a measuring ruler against a drawn man silhouette (about 180 cm), gradually shrinking, slimming and morphing step by step into a modern home microwave, while a year counter runs from 1947 forward (label it "حوالي ٢٠ سنة", do not show a specific year for home use).
+- Kitchen touches: floating cards shaped like kitchen UI (a timer ring, a cup of steam, a plate icon) used only as soft background accents, never as claims.
+- Question mark motif: a big orange "ليه؟" fills the screen at the discovery moment; at the end a question mark morphs into a small home microwave.
+- Patent paper cards stack up to a "100+" counter, then a glowing medal.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Percy Spencer, 3 Raytheon and the war, 4 The chocolate moment, 5 The popcorn, 6 From observation to project (patent dates), 7 Radarange the giant oven, 8 Twenty years to the home, 9 The man behind the invention, 10 Takeaway, 11 End card.
+
+FACT RULES (do not break): Spencer did NOT invent the magnetron; he developed a system to mass produce it. The 1947 oven was NOT home-ready; it took about 20 years. Show patent dates as numbers only with no "before/after" link to the chocolate moment. No invented dialogue, no extra facts, no home experiments or step-by-step instructions with food near any device.
+
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
