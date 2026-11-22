@@ -1,0 +1,16 @@
+Create a 1920x1080, 16:9 documentary-style motion-graphics video from these nine Egyptian Arabic scenes. The sole audio is Joker's actual narration. No AI voice, music, sound effects, fictional historical dialogue or testimonial. Use #101828 navy, white, and exactly one emphasized keyword in #F97316 orange per screen. Cairo for bold Arabic display text. Preserve correctly shaped RTL order and synchronized word reveals. Keep a fixed caption region below the art, a readable chapter pill and a thin progress line. No development counters or tiny illegible labels. A readable Satreen brand mark may remain where it fits.
+
+HOOK: Do not begin with the title or a portrait. Start with an anonymous street diagram and the air-versus-water question. Reveal John Snow and the pump only at the end of the opening spoken beat. Do not withhold the name by artificially delaying narration.
+VISUAL LANGUAGE: Victorian London through original restrained vector streets, paper-map textures, pump silhouettes and investigative lines. No real images, stock footage, gruesome illness, fake historic photographs or named patient reconstructions. Mark reconstructed diagrams as illustrative. Never invent a map and present it as Snow's original case data.
+SCENES:
+1. Establish a street mystery and shared water source, with no fake death counter.
+2. Present miasma as a historical hypothesis, visually labeled as a belief, not airborne cholera transmission.
+3. Show address markers plus interviews as complementary forms of information. Use a small fictional demonstration grid with a visible label saying it is not original case data.
+4. Remove the pump handle smoothly. The removal is an intervention, not a magical recovery switch. No instantaneous healing animation.
+5. This is the central correction: show a clearly labeled schematic downward trend that begins BEFORE the handle-removal marker. Use no made-up numerical observations. Keep the caveat readable: the outbreak was already declining. Do not claim the handle alone ended it.
+6. Expand from one investigator to a wider scientific community. No lone genius versus stupid crowd caricature.
+7. Focus on the map key, missing information and competing explanations. Differentiate observations from causal interpretations.
+8. Turn a simplistic hero-story card into layered inquiry, action, debate and later evidence. The story is also about scrutinizing attractive scientific legends.
+9. Return to the pump motif and end on the supplied original Satreen sticker logo over its orange blob, unchanged. Tagline: «معلومات وحكايات في سطرين» with «سطرين» orange and a restrained pulsing subscribe circle. If the exact logo asset is unavailable, leave a placeholder and request it instead of recreating its lettering.
+
+PRODUCTION: Show plan and storyboard before rendering. Target 5-7 minutes, but actual recording sets the final runtime, scene cuts and word highlighting. A silent animatic may precede recording and must not be called finally synchronized. Generate original visual assets and editable motion code, not stock. Deliver MP4 1920x1080, scene source code and subtitles. Keep 6% safe margins, a maximum of two subtitle lines and a final native-Arabic spelling/RTL check. All essential caveats must survive into the final voice and captions.
