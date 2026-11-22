@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "شوكة لزقت في جاكيتة" (the story of George de Mestral and the invention of Velcro, inspired by burdock burrs).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name Velcro and do NOT show any modern fastener in the first 15 seconds. Dive straight into the mystery: a man coming back from a walk picking burrs off his jacket and his dog, and instead of getting annoyed, he gets curious.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE ALPINE WALK + BURR HOOKS VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The walk: a 1941 Alpine trail drawn in soft lines, a man and his dog, dry burdock plants with round burrs along the path.
+- The burr under the microscope: an enlarged burr drawn like a ball covered in tiny hooks, next to fabric loops, showing hook-and-loop engagement step by step.
+- The two sides: two strips drawn facing each other, one covered in tiny hooks and one in soft loops, snapping together with a small spring motion.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is George de Mestral, 3 The burr under the microscope, 4 Years of trial, 5 The name from France, 6 From shoes to space, 7 Takeaway, 8 End card.
+
+FACT RULES (do not break): De Mestral noticed the burrs after a 1941 hunting walk in the Alps with his dog and examined them under a microscope, finding tiny hooks. He spent years developing the fastener and patented it in 1955. The name Velcro comes from the French words velours (velvet) and crochet (hook). NASA used it widely in the 1960s, which boosted its fame, but NASA did not invent it. No invented dialogue.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
