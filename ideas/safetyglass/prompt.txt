@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "إزاز وقع وما اتكسرش" (the story of Édouard Bénédictus and the flask that would not shatter).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name safety glass in the first 15 seconds. Dive straight into the mystery: a French chemist knocking a glass flask off his lab bench, watching it crack but hold together instead of shattering into shards, because of a forgotten film inside.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE FALLING FLASK VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The lab: a 1903 Paris chemistry lab drawn, flasks and benches, the flask tipping off the edge in slow motion.
+- The crack that holds: the flask hitting the floor, cracks spreading across it like a web, but the pieces staying glued together, drawn step by step.
+- The car crash: a newspaper clipping of a car accident, shattered windshield shards sketched beside a laminated pane that cracks but stays whole.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Bénédictus, 3 The forgotten film, 4 From lab to road, 5 Glass grew up, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): Édouard Bénédictus, a French chemist and artist, described an accidental 1903 laboratory discovery: a glass flask coated inside with dried cellulose nitrate (from a solution that had evaporated) fell and cracked but did not shatter into loose shards. Inspired after reading about car accidents where broken windshields injured drivers, he developed laminated safety glass, patented in 1909, with a celluloid layer between glass sheets; the Triplex company commercialized it. Laminated glass became standard in car windshields decades later. Tell the flask story as his own account of the accident.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
