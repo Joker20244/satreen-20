@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "عود كشط الأرض فولع" (the story of John Walker and the accidental friction match).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name matches in the first 15 seconds. Dive straight into the mystery: a chemist scraping a dried stick off his floor, and it bursts into flame in his hand.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE APOTHECARY VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The shop: an 1826 English apothecary shop drawn in warm dark tones, jars and bottles, a stirring stick left to dry with a lump of chemicals on its tip.
+- The scrape: the stick scraped on the stone floor, a drawn spark bursting into a flame, the chemist jumping back, drawn with light humor.
+- The box: a small drawn tin box of early friction matches with a piece of sandpaper, labeled in old-style lettering.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is John Walker, 3 The historic scrape, 4 Friction Lights, 5 From the shop to the world, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): John Walker, a chemist in Stockton-on-Tees, England, accidentally created the first friction match in 1826 when a stick coated in a dried chemical mixture ignited as he scraped it on his hearth/floor. He sold Friction Lights in his shop from 1827, in tin boxes with sandpaper, and did not patent the invention. Others like Samuel Jones later commercialized it further. No invented dialogue; do not claim Walker got rich.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
