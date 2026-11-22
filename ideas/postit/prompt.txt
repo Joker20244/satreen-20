@@ -1,0 +1,21 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "صمغ ضعيف عمل أشهر ورقة" (the story of the Post-it Note, Spencer Silver's weak adhesive and Art Fry's bookmark).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name the Post-it Note and do NOT show the yellow square in the first 15 seconds. Dive straight into the mystery (a scientist proud of a glue that is BAD at gluing, and everyone confused why he is happy), hold the tension, then reveal the little yellow note at the end of scene 1 (around 0:20 to 0:30). The title text appears only after the reveal.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE OFFICE + PAPER VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The lab bench: a drawn 3M laboratory bench with glue jars and test tubes, one jar labeled with a weak, droopy bond icon.
+- The weak glue: two paper shapes that touch and then politely separate, with a tiny spring bounce, showing a bond that holds lightly and lets go cleanly.
+- The hymn book: a drawn church choir book with small paper markers slipping out and falling in slow motion.
+- The yellow square: a small drawn yellow note that peels off and re-sticks again and again, on a desk, a folder, a computer screen edge.
+- The failed launch: a 1977 store shelf with full unsold stacks and a sad shopping cart, four small city tags on a US map.
+- The comeback: a drawn free-sample envelope multiplying into thousands, then the yellow note covering an entire office wall like tiles.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Spencer Silver, 3 A solution without a problem, 4 Art Fry and the hymns, 5 The peelable note, 6 The failed launch, 7 The Boise Blitz, 8 Takeaway, 9 End card.
+
+FACT RULES (do not break): Silver's adhesive was real research at 3M: a weak, pressure-sensitive, reusable adhesive, NOT a failed experiment to mock. Fry's bookmark moment came from his church choir hymn book. The 1977 test launch in four cities (as Press 'n Peel) did poorly, and free samples in Boise, Idaho in 1978 drove the turnaround before the 1980 national US launch. No invented dialogue, no exact sales numbers unless sourced, and no claims that Silver or Fry worked alone on everything.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
