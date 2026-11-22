@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "أكل من غير ما تسيب اللعب" (the story of the Earl of Sandwich and the gaming-table meal).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name the sandwich in the first 15 seconds. Dive straight into the mystery: an English nobleman who refused to leave the gambling table for meals, demanding meat tucked between two pieces of bread so he could eat with one hand and play with the other.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE GAMING TABLE VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The table: a candlelit 18th-century gaming table drawn, cards, chips, the Earl playing, a servant approaching with the bread-and-meat invention.
+- The one hand: the Earl eating the bread-tucked meat with one hand while holding cards in the other, drawn step by step, grease kept off the cards.
+- The two accounts: the famous gaming-table legend card beside the historian's quieter version (the desk lunch), both shown honestly side by side.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is the Earl, 3 The table request, 4 The quieter account, 5 Eating changed, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): The sandwich is named after John Montagu, 4th Earl of Sandwich. The popular legend says that during a long gambling session in 1762 he asked for meat between two pieces of bread to eat without leaving the table; others began ordering "the same as Sandwich". However, his biographer N. A. M. Rodger suggests the more likely scene was his work desk, not the gaming table, given his long hours as First Lord of the Admiralty. Tell the legend as the widely told account, then present Rodger's quieter version. The practice of eating bread with fillings existed long before; the Earl gave it the English name.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
