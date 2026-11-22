@@ -1,0 +1,50 @@
+name: Publish ten authored Satreen stories
+on:
+  push:
+    paths:
+      - '.github/workflows/publish-ten-stories.yml'
+permissions:
+  contents: write
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and install authored story package
+        run: |
+          python3 - <<'PYTHON'
+          import base64,hashlib,pathlib,zipfile,io,json,subprocess
+          R=pathlib.Path('.')
+          parts=[R/'new-ten-deploy/new-ten-deploy/chunk-00.txt']+sorted(R.glob('new-ten-chunk-*.txt'))
+          assert len(parts)==11
+          raw=base64.b64decode(''.join(p.read_text().strip() for p in parts),validate=True)
+          assert hashlib.sha256(raw).hexdigest()=='36cd27fbcac784062e44868d8270389d44ba133895f33912df5b6e1be19d1c7f'
+          old=json.loads((R/'manifest.json').read_text())
+          assert len(old['items'])==25
+          before={p:hashlib.sha256(p.read_bytes()).hexdigest() for p in R.glob('ideas/**/*') if p.is_file()}
+          with zipfile.ZipFile(io.BytesIO(raw)) as z:
+              names=z.namelist()
+              for name in names:
+                  q=pathlib.PurePosixPath(name)
+                  assert not q.is_absolute() and '..' not in q.parts
+                  assert q.parts[0] not in ('.git','.github','new-ten-deploy')
+                  assert R/name not in before
+                  if (R/name).exists():
+                      assert name in ('index.html','manifest.json'),name
+              new=json.loads(z.read('manifest.json'))
+              assert new['items'][:25]==old['items'] and len(new['items'])==35
+              z.extractall(R)
+          assert all(hashlib.sha256(p.read_bytes()).hexdigest()==h for p,h in before.items())
+          with zipfile.ZipFile('Satreen-ten-new-stories-editable-2026-11-22.zip','w',zipfile.ZIP_DEFLATED) as out:
+              with zipfile.ZipFile(io.BytesIO(raw)) as z:
+                  for name in z.namelist():
+                      if name not in ('index.html','manifest.json'):
+                          out.writestr(name,z.read(name))
+          for p in parts:
+              p.unlink()
+          subprocess.run(['git','config','user.name','github-actions[bot]'],check=True)
+          subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','assets','ideas','index.html','manifest.json','new-stories-preview.html','new-story-additions.json','sources-reference.md','stories-authoring.json','README-ar.md','Satreen-ten-new-stories-editable-2026-11-22.zip','new-ten-deploy']+[str(p) for p in parts if len(p.parts)==1],check=True)
+          subprocess.run(['git','commit','-m','Add ten complete Satreen stories preserving previous twenty-five'],check=True)
+          subprocess.run(['git','push'],check=True)
+          PYTHON
