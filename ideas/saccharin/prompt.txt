@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "إيد متغسلتش وحلّت العشا" (the story of Constantin Fahlberg and the accidental discovery of saccharin).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name saccharin and do NOT show any sweetener packet in the first 15 seconds. Dive straight into the mystery: a chemist at dinner notices his bread tastes oddly sweet, and realizes the sweetness is coming from his own hand.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE COAL TAR LAB + DINNER TABLE VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The dinner: a modest 1879 dinner table drawn in soft lines, a chemist holding bread, pausing mid-bite, a big orange question mark over his hand.
+- The lab: a Johns Hopkins basement lab drawn with coal-tar flasks and bottles, one flask glowing faintly to mark the experiment of that day.
+- The scale: a simple drawn scale comparing a tiny spoon of saccharin powder to a big pile of sugar, showing sweetness hundreds of times stronger.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Fahlberg, 3 The sweet dinner, 4 Hundreds of times sweeter, 5 The patent and the fallout, 6 From the lab to every home, 7 Takeaway, 8 End card.
+
+FACT RULES (do not break): Saccharin was discovered in 1878-1879 in Ira Remsen's laboratory at Johns Hopkins University by Constantin Fahlberg, while studying coal-tar derivatives. Fahlberg noticed a sweet taste on his hand at dinner after a lab day, traced it to the day's compound, and the discovery was published in 1879 under both names. Fahlberg later patented saccharin in 1886 in his name alone, which Remsen resented. The name comes from the Latin saccharum (sugar). No invented dialogue; do not claim he was searching for a sweetener.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
