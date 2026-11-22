@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "عصير نسي في التلج" (the story of Frank Epperson and the accidental invention of the Popsicle).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name Popsicle or show any ice pop in the first 15 seconds. Dive straight into the mystery: a kid forgets a cup with a wooden stick on a cold porch, and finds it frozen solid in the morning.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE FROZEN PORCH VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The frozen cup: a 1905 San Francisco porch drawn at dawn, frost on the railing, a cup with a wooden stick frozen solid, warm morning light hitting the ice.
+- The pull: a kid's hand pulling the frozen drink out of the cup by the stick, drawn step by step, the shape sliding out whole.
+- The stand: a small neighborhood stand drawn years later with kids lined up, the same frozen treat on sticks, labeled "Epsicle" before the name changes.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Frank, 3 The night that changed summer, 4 Years and forgetting, 5 Epsicle becomes Popsicle, 6 From the porch to every summer, 7 Takeaway, 8 End card.
+
+FACT RULES (do not break): In 1905, 11-year-old Frank Epperson left a cup of powdered soda mix and water with a wooden stirring stick on his San Francisco porch on a cold night, and it froze with the stick in it. He made the frozen treat for his neighborhood as an adult, patented it in 1924 as the Epsicle, and his children renamed it Popsicle. He later sold the rights to the Joe Lowe Company. No invented dialogue.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
