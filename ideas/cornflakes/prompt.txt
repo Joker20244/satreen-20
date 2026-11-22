@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "عجينة اتنسيت بقت فطار" (the story of the Kellogg brothers and the accidental invention of corn flakes).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name corn flakes or Kellogg in the first 15 seconds. Dive straight into the mystery: a kitchen batch of dough forgotten and gone stale, and two brothers deciding to roll it anyway instead of throwing it out.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE SANITARIUM KITCHEN VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The forgotten dough: a 1894 sanitarium kitchen drawn in soft lines, a tray of stale wheat dough, a clock on the wall showing it sat too long.
+- The flake moment: dough passing through rollers and breaking into thin separate flakes, drawn step by step, one flake falling in slow motion.
+- The two brothers: two simple drawn portraits, one with a stethoscope (the doctor) and one with a ledger (the businessman), the same flake between them.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who are the Kelloggs, 3 The night of the flake, 4 From Granose to business, 5 Will's company, 6 The world's breakfast, 7 Takeaway, 8 End card.
+
+FACT RULES (do not break): In 1894 at the Battle Creek Sanitarium, Dr. John Harvey Kellogg and his brother Will Keith Kellogg accidentally created flaked cereal when cooked wheat was left out and went stale, then was rolled and broke into flakes. They served it to patients as Granose. Will Keith Kellogg founded the Battle Creek Toasted Corn Flake Company in 1906 and added sugar and malt, against his brother's wishes. No invented dialogue; frame the split between the brothers fairly.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
