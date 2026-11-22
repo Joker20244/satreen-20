@@ -1,0 +1,21 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "طبق منسي غيّر الطب" (the story of Alexander Fleming and the discovery of penicillin).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name penicillin and do NOT show any medicine in the first 15 seconds. Dive straight into the mystery (a forgotten bacteria plate on a messy desk, a strange mold spot, and one question), hold the tension, then reveal penicillin by name at the end of scene 1 (around 0:20 to 0:30). The title text appears only after the reveal.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE LAB + MOLD VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The lab: a cluttered 1920s London laboratory desk drawn in soft lines, stacked petri dishes, a window with gray London light. One dish is pushed aside and forgotten.
+- The mold: a pale green fuzzy colony drawn in the middle of a bacteria plate, with a clear empty ring around it where bacterial colonies fade and vanish, shown step by step.
+- The question: a big orange "ليه؟" that fills the screen at the moment of noticing, later morphing into a small medicine vial.
+- The mold under the lens: a symbolic microscope view of Penicillium like a tiny drawn tree with round spores, releasing glowing particles that push bacteria shapes away.
+- The production race: drawn 1940s factory flasks and a wartime map with supply lines, the vial icon multiplying from one to thousands.
+- The medal: three simple glowing medal cards side by side for the 1945 Nobel, labeled with the three names only.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is Fleming, 3 The forgotten plate, 4 Under the lens, 5 From paper to medicine, 6 The world changed, 7 Takeaway, 8 End card.
+
+FACT RULES (do not break): Fleming did NOT set out to find an antibiotic; frame it as an observed accident he chose to investigate. The mold was identified as Penicillium notatum and Fleming published in 1929. Fleming could not purify or mass-produce it; credit Florey, Chain and the Oxford team for turning it into a medicine in the 1940s. The 1945 Nobel was shared by Fleming, Florey and Chain. No invented dialogue, no extra facts, no claims that penicillin cures everything, and no medical advice or dosage talk.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
