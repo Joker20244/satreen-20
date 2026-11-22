@@ -1,0 +1,21 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "أسطوانة غاز بقت طاسة" (the story of Roy Plunkett and the accidental discovery of Teflon).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name Teflon and do NOT show any frying pan in the first 15 seconds. Dive straight into the mystery (a gas cylinder that will not open, yet weighs too much to be empty), hold the tension, then reveal Teflon at the end of scene 1 (around 0:20 to 0:30). The title text appears only after the reveal.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE CYLINDER + NONSTICK VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The stuck cylinder: a drawn pressurized gas cylinder with a valve that will not turn, a small frost effect on its body, and a weight scale tipping heavy.
+- The cut-open moment: the cylinder drawn opened in half with a white powder settled inside, always with a clear 'رسم توضيحي' label, never shown as a how-to.
+- The magic powder: white powder grains drawn repelling a water droplet and a sauce drop from a surface, both sliding off without sticking.
+- The slippery test: a tiny drawn tilted ramp where different material cubes slide down, the new powder cube sliding first and fastest.
+- The lab tag: a floating card with the date April 6, 1938 and the lab name, styled like a档案 card.
+- The pan: a drawn frying pan where a symbolic egg shape slides freely, appearing only AFTER the reveal, never in the hook.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Plunkett and Freon, 3 The stuck cylinder, 4 Cutting it open, 5 Testing the powder, 6 From lab to war, 7 From war to kitchen, 8 Takeaway, 9 End card.
+
+FACT RULES (do not break): The discovery date is April 6, 1938, at DuPont's Jackson Lab, by Roy Plunkett with his technician assistant Jack Rebok, while testing tetrafluoroethylene (TFE) refrigerant gas. The cylinder failed to discharge but was too heavy to be empty; they cut it open and found the gas had polymerized into a white powder. The powder proved extremely slippery, chemically resistant, and with a very high melting point. Teflon was used in sensitive wartime and industrial roles before reaching kitchen pans years later. Always credit Rebok's role. Never present cutting a pressurized cylinder as something to imitate, and add no safety instructions.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
