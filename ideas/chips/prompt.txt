@@ -1,0 +1,18 @@
+Create a long-form Arabic motion-graphics video, 16:9 landscape, 1920x1080, about 5 minutes, 30fps. Title: "شكوى طبخت التشيبس" (the story of George Crum and the contested birth of the potato chip).
+
+HOOK REQUIREMENT: open with a hook that grabs attention instantly. Do NOT name the potato chip in the first 15 seconds. Dive straight into the mystery: a customer keeps sending his fried potatoes back to the kitchen, complaining they are too thick, until the chef slices them impossibly thin out of spite. Then flag that the story is contested.
+
+STYLE: deep dark navy background (#101828), bold modern Arabic typography (Cairo font) fully RTL, white text with exactly one keyword per screen in orange (#F97316). Words appear one by one synced with the voiceover. Smooth cinematic spring motion with a light 3D depth feel, floating UI cards with soft shadows, seamless transitions, no hard cuts. Clean, minimal, no clutter.
+
+VISUAL LANGUAGE — THE ANNOYED CHEF VISUAL LANGUAGE (illustrative and symbolic, not photoreal, and add a small "رسم توضيحي" label where a visual stands for something real):
+- The lodge: an 1853 Saratoga Springs restaurant drawn, lake air, a dining room, a plate of thick fried potatoes.
+- The spite cut: the chef slicing potatoes paper-thin, drawn step by step, the slices frying into crispy curls, extra salt sprinkled with a flourish.
+- The two versions: the famous legend card beside an honest historian card noting the story is contested, both visible side by side.
+
+SCENES (Egyptian Arabic voiceover + on-screen text, follow the attached scenario file scene by scene): 1 Hook, 2 Who is George Crum, 3 The spite cut, 4 Saratoga chips, 5 The other side, 6 Takeaway, 7 End card.
+
+FACT RULES (do not break): The widely told legend credits chef George Crum at Moon's Lake House in Saratoga Springs in 1853: a fussy customer kept returning fried potatoes for being too thick, so Crum sliced them paper-thin, fried them crisp and oversalted them, and the customer loved them. Saratoga Chips followed. But food historians note earlier printed recipes for thin fried potato slices (an 1817 English cookbook; an 1822 US edition), and the fussy-customer part cannot be verified. Tell the legend as the popular account and name the dispute honestly.
+
+END CARD (last 10 seconds): the Satreen sticker-style logo card tilted on screen with the orange blob behind it, the tagline "معلومات وحكايات في سطرين" (keyword "سطرين" in orange) and a pulsing subscribe circle.
+
+PRODUCTION MODE: the entire video is AI-generated end to end. Every visual, animation, on-screen text and transition is created by you (the AI) with no stock footage, no real photos, and no manual editing by the user. The ONLY human input is the voiceover: the user records the Egyptian Arabic narration himself and provides it as an audio file. Do not generate any voice. Build the whole video to match that pre-recorded voiceover: transcribe or time-align the audio, then sync each scene, word reveal and orange keyword to the actual spoken timing, and set the final length from the recording (target 5 to 6 minutes). Follow the scenario file scene by scene for the script and visual beats. Show me the plan and storyboard first before rendering. Export MP4 1920x1080 plus the source code.
